@@ -104,13 +104,16 @@ export default {
       content: []
     }
   },
-  mounted() {
-    fetch("http://localhost:3000/content")
-      .then(res => res.json())
-      .then(data => {
-        this.content = data;
-      })
-  }
+ mounted() {
+  
+  fetch("https://69aeee46c8b37f499836fb56.mockapi.io/api/v1/data/1")
+    .then(res => res.json())
+    .then(data => {
+      
+      this.content = data.content;
+    })
+    .catch(err => console.log("Hata oluştu:", err)); 
+}
 }
 </script>
 

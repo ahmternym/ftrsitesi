@@ -62,17 +62,28 @@ export default {
   },
   mounted() {
     
-    fetch("http://localhost:3000/content/" + this.id)
-      .then(res => {
-        if (!res.ok) {
-          this.$router.push({ name: 'notfound' }); 
-        }
-        return res.json();
-      })
-      .then(data => {
-        this.sick = data
-      })
-      .catch(err => console.error("Veri yüklenemedi:", err))
+    fetch("https://69aeee46c8b37f499836fb56.mockapi.io/api/v1/data/1")
+  .then(res => {
+    if (!res.ok) {
+      throw new Error("Sunucu hatası");
+    }
+    return res.json();
+  })
+  .then(data => {
+    const allContent = data.content;
+    const foundSick = allContent.find(item => item.id == this.id);
+
+    if (foundSick) {
+      this.sick = foundSick;
+    } else {
+      
+      this.$router.push({ name: 'notfound' });
+    }
+  })
+  .catch(err => {
+    console.error("Veri yüklenemedi:", err);
+    this.$router.push({ name: 'notfound' });
+  });
   }
 }
 </script>

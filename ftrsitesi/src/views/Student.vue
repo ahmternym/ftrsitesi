@@ -111,12 +111,13 @@ export default {
         
     },
     mounted() {
-        fetch("http://localhost:3000/titles")
-          .then(res => res.json())
-          .then(data => {
-            this.titles = data
-        })
-    },
+    fetch("https://69aeee46c8b37f499836fb56.mockapi.io/api/v1/data/1")
+      .then(res => res.json())
+      .then(data => {
+        this.titles = data.titles;
+      })
+      .catch(err => console.log("Başlıklar yüklenemedi:", err));
+},
 }
 </script>
 

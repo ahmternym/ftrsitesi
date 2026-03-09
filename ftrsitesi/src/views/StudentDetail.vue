@@ -55,14 +55,15 @@ export default {
         }
     },
     mounted() {
-        
-        fetch("http://localhost:3000/questions?category=" + this.category)
-            .then(res => res.json())
-            .then(data => {
-                this.questions = data;
-            })
-            .catch(err => console.log("Hata:", err));
-    },
+    
+    fetch("https://69aeee46c8b37f499836fb56.mockapi.io/api/v1/data/1")
+        .then(res => res.json())
+        .then(data => {
+            const allQuestions = data.questions;
+            this.questions = allQuestions.filter(item => item.category === this.category);
+        })
+        .catch(err => console.log("Sorular yüklenemedi:", err));
+},
     methods: {
         
         checkAnswer(question, answer) {
