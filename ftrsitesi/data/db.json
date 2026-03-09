@@ -1,0 +1,1759 @@
+{
+  "content": [
+    {
+      "id": 1,
+      "title": "Bel Fıtığı (Lomber Disk Hernisi)",
+      "description": "Omurgamızı oluşturan kemiklerin arasında, hareketlerimizi yumuşatan ve amortisör görevi gören diskler bulunur. Bu diskleri içi jöle dolu bir donuta benzetebiliriz. Diskin dış kılıfının zayıflayıp yırtılması ve içindeki jölemsi maddenin dışarı taşarak bacaklara giden sinirlere baskı yapmasına bel fıtığı diyoruz.",
+      "causes": "Hatalı Yüklenme: Yerden dizleri bükmeden, sadece beli bükerek ağır bir eşya kaldırmak. Ters Hareketler: Ani, kontrolsüz dönme veya uzanma hareketleri yapmak. Hareketsizlik: Masa başında saatlerce, omurganın doğal kıvrımını bozacak şekilde oturmak.",
+      "symptoms": "Belde başlayan, ancak sıklıkla kalçadan topuğa kadar inen, elektrik çarpması veya damar çekilmesi gibi tarif edilen şiddetli bacak ağrısı. Bacakta, baldırda veya ayak parmaklarında uyuşma, karıncalanma ve keçeleşme hissi.",
+      "treatment": "Bel fıtığı kelimesini duymak korkutucu gelebilir ancak vakaların çok büyük bir kısmı ameliyata gerek kalmadan tamamen iyileşir! Özel manuel terapi teknikleriyle omurgadaki baskı hafifletilir ve sıkışan sinir rahatlatılır.",
+      "category": "patient",
+      "target": "omurga",
+      "image": "/images/diskhernisi.png"
+    },
+    {
+      "id": 2,
+      "title": "Skolyoz ve Kifoz",
+      "description": "Sağlıklı bir omurgaya arkadan baktığımızda dümdüz bir çizgi halinde görünmesi, yandan baktığımızda ise boyun ve belde hafif bir çukurluk, sırtta ise hafif bir tümseklik olması gerekir. Skolyoz, omurganın sağa veya sola doğru S veya C harfi şeklinde eğrilmesi ve kendi etrafında dönmesidir.",
+      "causes": "Skolyoz: En sık ergenlik dönemindeki hızlı büyüme ataklarında başlar. Kifoz: Çoğunlukla telefon, tablet veya bilgisayar başında geçirilen uzun saatler ve alışkanlık haline gelen kötü duruş (postürel) kaynaklıdır.",
+      "symptoms": "Aynaya bakıldığında omuzlardan veya kalçalardan birinin diğerinden daha yüksekte, asimetrik durması. Öne doğru eğilindiğinde sırtın bir tarafında diğerine göre daha belirgin bir tümseklik (hörgüç) oluşması.",
+      "treatment": "Eğriliğin derecesine, kişinin yaşına ve kemik gelişimine göre kişiye özel, nokta atışı bir yol haritası çizilir. Burada standart spor salonu egzersizleri yerine, omurgayı üç boyutlu olarak ele alan klinik egzersizler uygulanır.",
+      "category": "patient",
+      "target": "omurga",
+      "image": "/images/skolyoz.png"
+    },
+    {
+      "id": 3,
+      "title": "Osteoartrit (Kireçlenme)",
+      "description": "Eklemlerimizde kemiklerin birbirine sürterek aşınmasını engelleyen, kaygan ve koruyucu bir yapı olan kıkırdak dokusu bulunur. Halk arasında kireçlenme olarak bilinen Osteoartrit, aslında sanıldığının aksine eklemde kireç birikmesi değil, kıkırdağın aşınmasıdır.",
+      "causes": "Doğal Aşınma: İlerleyen yaşla birlikte eklemlerin yıllar boyu kullanılmasına bağlı yıpranması. Fazla Kilo: Özellikle diz ve kalça gibi vücut ağırlığını taşıyan eklemlere binen ekstra yük.",
+      "symptoms": "Hareket ettikçe artan, dinlenince hafifleyen sızı şeklinde eklem ağrısı. Sabahları yataktan kalktığınızda hissedilen, ancak hareket ettikçe 15-20 dakika içinde açılan tutukluk ve sertlik hissi.",
+      "treatment": "Kıkırdak aşınması anatomik olarak tamamen eski haline döndürülemez olsa da, ağrısız ve aktif bir yaşam sürmek mümkündür. Eklem çevresindeki kaslar güçlendirilerek ekleme binen yük hafifletilir.",
+      "category": "patient",
+      "target": "ortopedik",
+      "image": "/images/osteoartrit.png"
+    },
+    {
+      "id": 4,
+      "title": "Menisküs ve Ön Çapraz Bağ (ÖÇB) Yırtıkları",
+      "description": "Diz eklemimiz, uyluk ve kaval kemiklerinin buluştuğu mükemmel ama karmaşık bir menteşe gibidir. Bu yapıların aşırı zorlanma sonucu zedelenmesine, saçaklanmasına veya tamamen kopmasına yırtık diyoruz.",
+      "causes": "Ani Dönüşler: Ayak yerde sabitken dizin veya gövdenin aniden dönmesi. Sert Darbeler: Dize dışarıdan, özellikle yan taraftan gelen doğrudan ve şiddetli darbeler.",
+      "symptoms": "Yaralanma anında dizin içinden gelen net bir kopma veya pat (pop) sesi duyulması. Dizin üzerine basarken hissedilen güvensizlik; dizin aniden boşluğa gitme veya altından kayma hissi.",
+      "treatment": "Klinikte ilk amacımız özel cihazlar ve buz uygulamalarıyla dizdeki ödemi ve ağrıyı söndürmektir. Ardından dize eski hareket açıklığı kazandırılır ve arka bacak kasları direnç egzersizleriyle güçlendirilir.",
+      "category": "patient",
+      "target": "ortopedik",
+      "image": "/images/acl.png"
+    },
+    {
+      "id": 5,
+      "title": "Donuk Omuz ve Omuz Sıkışma Sendromu",
+      "description": "Omuz Sıkışma Sendromu, kolumuzu havaya kaldırdığımızda kaslarımızın ve tendonlarımızın omuz kemikleri arasında sıkışıp ezilmesidir. Donuk Omuz ise omuz eklemini saran esnek kapsülün kalınlaşıp kilitlenmesidir.",
+      "causes": "Tekrarlayan Hareketler: Kolun sürekli baş seviyesinin üzerine kaldırıldığı işler. Hareketsizlik: Basit bir omuz ağrısı sonrası omuzu uzun süre hiç hareket ettirmemek.",
+      "symptoms": "Kolu yana veya yukarı doğru kaldırırken aniden giren keskin ağrı. Donuk omuzda ise omuz tamamen kilitlenir; kolunuzu siz isteseniz de belli bir noktadan öteye götüremezsiniz.",
+      "treatment": "Sıkışma sendromunda duruşu düzeltici egzersizler verilir. Donuk omuzda ise kilitlenmiş kapsülü açmak için özel germe teknikleri ve fizyoterapistin uyguladığı manuel terapi yöntemleri devreye girer.",
+      "category": "patient",
+      "target": "ortopedik",
+      "image": "/images/shoulder.png"
+    },
+    {
+      "id": 6,
+      "title": "Fibromiyalji (Yumuşak Doku Romatizması)",
+      "description": "Halk arasında yumuşak doku romatizması olarak bilinen fibromiyalji, vücutta yaygın kas ağrılarına ve bitmek bilmeyen bir yorgunluğa yol açan bir durumdur. Beynin ağrıyı algılama biçimindeki farklılıktan kaynaklanır.",
+      "causes": "Stres ve Travmalar: Uzun süreli yoğun stres veya geçmişte yaşanan ağır travmalar en büyük tetikleyicilerdir. Uyku Bozuklukları: Derin uyku evresine geçememek vücudun kendini yenilemesini engeller.",
+      "symptoms": "Vücudun hem sağ hem sol tarafında, sürekli yer değiştiren yaygın sızı ve yanmalar. Gece saatlerce uyunsa bile sabahları sanki hiç uyumamış gibi yorgun ve tutuk uyanmak.",
+      "treatment": "Omuz ve sırtta kilitlenmiş kas spazmlarını manuel terapiyle gevşetmek ilk adımdır. Ancak asıl kalıcı çözüm, düşük tempoda başlanan klinik pilates veya yoga gibi endorfin salgılatan egzersizlerdir.",
+      "category": "patient",
+      "target": "romatizmal",
+      "image": "/images/fibromiyalji.png"
+    },
+    {
+      "id": 7,
+      "title": "Romatoid Artrit",
+      "description": "Bağışıklık sisteminin adeta bir iletişim hatası yaşayarak yanlışlıkla kendi eklemlerimize saldırdığı, eklemde mikropsuz bir iltihap, şişlik ve hararet başlatan iltihaplı romatizma türüdür.",
+      "causes": "Bağışıklık Sisteminin Şaşırması: Vücudun savunma mekanizmasının kendi hücrelerine saldırması. Sigara Kullanımı: Romatoid Artrit'i tetikleyen dış faktörlerin başında sigara gelir.",
+      "symptoms": "Eklemlerde (özellikle el ve ayak parmaklarında) belirgin şişlik, kızarıklık ve dokunmaya karşı hassasiyet. Sabahları uyanıldığında 1 saatten uzun süren elleri yumruk yapamama hissi.",
+      "treatment": "Alevli dönemlerde nazik eklem hareketleri ve soğuk/TENS gibi uygulamalarla ağrı dindirilir. İltihabın yatıştığı dönemlerde ise zayıflayan kasları klinik egzersizlerle güçlendirmek hedeflenir.",
+      "category": "patient",
+      "target": "romatizmal",
+      "image": "/images/romatoid.png"
+    },
+    {
+      "id": 8,
+      "title": "Ankilozan Spondilit",
+      "description": "Özellikle omurgayı ve leğen kemiği ile omurganın birleştiği eklemleri tutan iltihaplı bir romatizma türüdür. İlerleyen vakalarda omurganın esnekliğini kaybedip sertleşmesine neden olabilir.",
+      "causes": "Genetik Yatkınlık: Özellikle 'HLA-B27' adı verilen bir gene sahip olan kişilerde hastalığın görülme riski çok daha yüksektir.",
+      "symptoms": "Dinlenmekle artan, ancak hareket ettikçe ve egzersiz yaptıkça hafifleyen sinsi bir bel ağrısı. Gecenin ikinci yarısında bel veya kalça ağrısıyla uykudan uyanma ihtiyacı.",
+      "treatment": "Fizik tedavi omurganın kilitlenmesini ve şekil değiştirmesini engellemek için başroldedir. Omurgayı geriye doğru esneten özel postür egzersizleri ve derin nefes egzersizleri uygulanır.",
+      "category": "patient",
+      "target": "romatizmal",
+      "image": "/images/as.png"
+    },
+    {
+      "id": 9,
+      "title": "Tenisçi ve Golfçü Dirseği (Epikondilitler)",
+      "description": "El bileğimizi ve parmaklarımızı hareket ettiren kasların dirseğe tutunduğu noktalarda, aşırı kullanıma bağlı mikro yırtıklar ve zedelenmeler oluşması durumudur.",
+      "causes": "Tekrarlayan Hareketler: El, el bileği ve parmakların mola vermeden aynı hareketleri yapması (klavye, mouse kullanımı vb.). Zorlayıcı Kavrama: Sıkışmış bir kavanoz kapağını açmaya çalışmak.",
+      "symptoms": "Dirseğin iç veya dış tarafındaki kemik çıkıntısına dokunulduğunda hissedilen nokta atışı hassasiyet. Kavrama gücünde azalma; eldeki bardağı veya telefonu düşürecekmiş gibi hissetme.",
+      "treatment": "Bölgedeki yangıyı dindirmek için buz ve epikondilit bandajları kullanılır. ESWT (şok dalgası tedavisi) cihazı ile doku onarımı tetiklenir ve ardından kaslar güçlendirilir.",
+      "category": "patient",
+      "target": "yumuşak doku",
+      "image": "/images/dirsek.png"
+    },
+    {
+      "id": 10,
+      "title": "Topuk Dikeni (Plantar Fasiit)",
+      "description": "Ayak tabanımızda topuğumuzdan parmak uçlarımıza kadar uzanan bağ dokusunun (plantar fasya) aşırı gerilip topuğa yapıştığı yerde iltihaplanmasıdır. Ağrıyı yapan kemik değil, bu gergin bandın iltihabıdır.",
+      "causes": "Yanlış Ayakkabı Seçimi: Düz tabanlı veya çok sert ayakkabılarla uzun süre yürümek. Baldır Gerginliği: Arka bacak kaslarının çok kısa ve gergin olması.",
+      "symptoms": "Sabah yataktan kalkıp yere basılan ilk birkaç adımda topuğun altında cam kırıklarına veya çiviye basıyormuş gibi hissedilen o meşhur, keskin ağrı.",
+      "treatment": "Klinikte ESWT cihazı ile kanlanma artırılır ve vücudun iyileştirme mekanizması ateşlenir. Eş zamanlı olarak taş gibi olmuş baldır ve ayak tabanı kasları esnetilir.",
+      "category": "patient",
+      "target": "yumuşak doku",
+      "image": "/images/plantar.png"
+    }
+  ],
+  "titles":[
+    {
+      "id":201,
+      "title":"FTR Giriş I Vize Soruları",
+      "category": "ftrgirisvize"
+    },
+    {
+      "id":202,
+      "title":"FTR Giriş I Final Soruları",
+      "category": "ftrgirisfinal"
+    },
+    {
+      "id":203,
+      "title":"FTR Giriş II Vize Soruları",
+      "category": "ftrgirisikivize"
+    },
+    {
+      "id":204,
+      "title":"FTR Giriş II Final Soruları",
+      "category": "ftrgirisikifinal"
+    },
+    {
+      "id":205,
+      "title":"Elektro Fiziksel Ajanlar I Vize Soruları",
+      "category": "elektrobirvize"
+    },
+    {
+      "id":206,
+      "title":"Elektro Fiziksel Ajanlar I Final Soruları",
+      "category": "elektrobirfinal"
+    },
+    {
+      "id":206,
+      "title":"Elektro Fiziksel Ajanlar II Vize Soruları",
+      "category": "elektroikivize"
+    },
+    {
+      "id":206,
+      "title":"Elektro Fiziksel Ajanlar II Final Soruları",
+      "category": "elektroikifinal"
+    }
+    
+  ],
+  "questions": [
+    {
+      "id": 11,
+      "question": "Aşağıdakilerden hangisi fizyoterapi ve rehabilitasyonun temel amaçlarından veya uygulamalarından biri değildir?",
+      "a": "Hareket bozukluklarının tedavisi",
+      "b": "Hastalıkların tıbbi tanısını koymak ve reçete yazmak",
+      "c": "Ağrının giderilmesi",
+      "d": "Kaybedilen fonksiyonun geri kazanılması",
+      "correctanswer": "Hastalıkların tıbbi tanısını koymak ve reçete yazmak",
+      "category": "ftrgirisvize"
+    },
+    {
+      "id": 12,
+      "question": "Fizyoterapi mesleğinin dünyadaki ve Türkiye'deki yaklaşık geçmişi sırasıyla kaç yıldır?",
+      "a": "200 yıl - 100 yıl",
+      "b": "150 yıl - 25 yıl",
+      "c": "117 yıl - 50 yıl",
+      "d": "80 yıl - 40 yıl",
+      "correctanswer": "117 yıl - 50 yıl",
+      "category": "ftrgirisvize"
+    },
+    {
+      "id": 13,
+      "question": "M.Ö. 460'lı yıllarda, hastaların tedavisi için masaj, manuel terapi teknikleri ve hidroterapiyi uygulayarak fizyoterapinin temellerini atan ilk kişiler kimlerdir?",
+      "a": "Hipokrat ve Galen",
+      "b": "Sokrates ve Platon",
+      "c": "İbni Sina ve Farabi",
+      "d": "Aristo ve Hipokrat",
+      "correctanswer": "Hipokrat ve Galen",
+      "category": "ftrgirisvize"
+    },
+    {
+      "id": 14,
+      "question": "İlk fizyoterapi okulu nerede ve hangi olay sırasında açılmıştır?",
+      "a": "Londra Hastanesi - 2. Dünya Savaşı",
+      "b": "Washington D.C. Walter Reed Ordu Hastanesi - 1. Dünya Savaşı",
+      "c": "Berlin Askeri Akademisi - Kırım Savaşı",
+      "d": "Paris Tıp Fakültesi - Fransız İhtilali",
+      "correctanswer": "Washington D.C. Walter Reed Ordu Hastanesi - 1. Dünya Savaşı",
+      "category": "ftrgirisvize"
+    },
+    {
+      "id": 15,
+      "question": "Aşağıdakilerden hangisi 'Koruyucu Fizyoterapi' kapsamına giren uygulamalardan biri değildir?",
+      "a": "Sağlıklı kişilerde fiziksel uyumun sağlanması için egzersiz verilmesi",
+      "b": "Ev ve işyerlerinin analiz edilerek çevre düzenlemeleri yapılması",
+      "c": "Ampute hastalara protez sonrası cerrahi revizyon yapılması",
+      "d": "Günlük yaşamda olası riskleri azaltabilmek için kişilere eğitim verilmesi",
+      "correctanswer": "Ampute hastalara protez sonrası cerrahi revizyon yapılması",
+      "category": "ftrgirisvize"
+    },
+    {
+      "id": 16,
+      "question": "Koehn'e (1994) göre, fizyoterapistlerin 'profesyonel' sayılabilmesi için gereken özellikler arasında aşağıdakilerden hangisi bulunmaz?",
+      "a": "Lisanslı olmak",
+      "b": "İşlerinde otonomiyi (bağımsızlık) kullanmak",
+      "c": "Sadece diğer mesleklerin verdiği standart kararları sorgusuzca uygulamak",
+      "d": "Standartlar ve davranış idealleri belirleyen bir organizasyona üye olmak",
+      "correctanswer": "Sadece diğer mesleklerin verdiği standart kararları sorgusuzca uygulamak",
+      "category": "ftrgirisvize"
+    },
+    {
+      "id": 17,
+      "question": "Aşağıdakilerden hangisi fizyoterapistlerin kullandığı klinik değerlendirme testlerinden biri değildir?",
+      "a": "Kas kısalık testleri",
+      "b": "Normal eklem hareket genişliğinin ölçülmesi",
+      "c": "Yürüme ve postür analizi",
+      "d": "Kandaki biyokimyasal değerlerin laboratuvar analizi",
+      "correctanswer": "Kandaki biyokimyasal değerlerin laboratuvar analizi",
+      "category": "ftrgirisvize"
+    },
+    {
+      "id": 18,
+      "question": "Hastalarla ortak bir çalışma içinde olmanın en önemli özelliği olan ve tedavinin etkinliğini artıran unsur aşağıdakilerden hangisidir?",
+      "a": "Otorite",
+      "b": "Güven",
+      "c": "Zorunluluk",
+      "d": "Mesafe",
+      "correctanswer": "Güven",
+      "category": "ftrgirisvize"
+    },
+    {
+      "id": 19,
+      "question": "Fizyoterapistin kendi uzmanlık alanı olmayan bir alanda çalışması veya uygulama yapması hangi temel soruna yol açar?",
+      "a": "Hastaları riske sokar",
+      "b": "Mesleki otonomiyi artırır",
+      "c": "Tedavi süresini kısaltır",
+      "d": "Diğer sağlık çalışanlarının iş yükünü azaltır",
+      "correctanswer": "Hastaları riske sokar",
+      "category": "ftrgirisvize"
+    },
+    {
+      "id": 20,
+      "question": "Fizyoterapistlerin 'Mesleğe ve Meslektaşlarına Karşı Sorumluluğu' kapsamında, meslektaşları ile olan ilişkilerinde hangi davranıştan kaçınmaları gerektiği özellikle vurgulanmıştır?",
+      "a": "Bilgi alışverişinde bulunmak",
+      "b": "Ortak bilimsel çalışmalar yürütmek",
+      "c": "Beklenmeyen durumlar haricinde birbirlerini eleştirmek",
+      "d": "İyi ilişkiler içinde çalışmak",
+      "correctanswer": "Beklenmeyen durumlar haricinde birbirlerini eleştirmek",
+      "category": "ftrgirisvize"
+    },
+    {
+      "id": 21,
+      "question": "Fizyoterapide 'Hizmet İçin Para Ödeyenlere Karşı Sorumluluk' ilkesi aşağıdakilerden hangisini emreder?",
+      "a": "Hastalara daima en pahalı yöntemleri tavsiye etmeyi",
+      "b": "Kesin zorunlu olmadıkça pahalı yöntemler önermemeyi",
+      "c": "Sadece sigorta şirketlerinin ödediği tedavileri yapmayı",
+      "d": "Ücretini ödeyemeyen hastaları tedavi etmemeyi",
+      "correctanswer": "Kesin zorunlu olmadıkça pahalı yöntemler önermemeyi",
+      "category": "ftrgirisvize"
+    },
+    {
+      "id": 22,
+      "question": "Aşağıdakilerden hangisi fizyoterapide uygulanan 'Klinik Uygulamalar ve Tedavi Yöntemleri' (modaliteler) arasında yer almaz?",
+      "a": "Proprioseptif Nöromusküler Fasilitasyon (PNF)",
+      "b": "Elektroterapi yöntemleri",
+      "c": "Botoks (Botulinum toksin) enjeksiyonu",
+      "d": "Hidroterapi ve su içi uygulamaları",
+      "correctanswer": "Botoks (Botulinum toksin) enjeksiyonu",
+      "category": "ftrgirisvize"
+    },
+    {
+      "id": 23,
+      "question": "Fizyoterapi insanın işlevleri, hareketleri ve maksimum potansiyeliyle ilgilenirken; bireyin hangi alanlardaki 'iyi olma' durumunu korumayı hedefler?",
+      "a": "Sadece fiziksel",
+      "b": "Fiziksel, psikolojik ve sosyal",
+      "c": "Fiziksel ve ekonomik",
+      "d": "Psikolojik ve ruhsal",
+      "correctanswer": "Fiziksel, psikolojik ve sosyal",
+      "category": "ftrgirisvize"
+    },
+    {
+      "id": 24,
+      "question": "Türkiye'de fizyoterapistlerin kariyer yolları düşünüldüğünde aşağıdaki ifadelerden hangisi doğrudur?",
+      "a": "Sadece hastanelerde tekniker unvanıyla çalışabilirler.",
+      "b": "Mezuniyet sonrası akademik kariyer yapma hakları yoktur.",
+      "c": "Bilim uzmanlığı, doktora yapabilir; doçent ve profesör unvanı alabilirler.",
+      "d": "Sadece kendi açtıkları bağımsız kliniklerde hizmet verebilirler.",
+      "correctanswer": "Bilim uzmanlığı, doktora yapabilir; doçent ve profesör unvanı alabilirler.",
+      "category": "ftrgirisvize"
+    },
+    {
+      "id": 25,
+      "question": "Aşağıdakilerden hangisi 'Hastaya Güven Sağlama ve Bunu Koruma Yolları'ndan biri olarak sayılamaz?",
+      "a": "Hastaları tedavileriyle ilgili kararlara ortak etmek",
+      "b": "Hastaya tedavi seçenekleriyle ilgili bilgi vermek",
+      "c": "Hastalara onurlu ve saygılı hizmet etmek",
+      "d": "Hastanın klinik kayıtlarını onayı olmadan bilimsel makalelerde açık kimliğiyle kullanmak",
+      "correctanswer": "Hastanın klinik kayıtlarını onayı olmadan bilimsel makalelerde açık kimliğiyle kullanmak",
+      "category": "ftrgirisvize"
+    },
+    {
+      "id": 26,
+      "question": "Fizyoterapi mesleğinin tarihçesini bilmenin önemine dair aşağıdaki ifadelerden hangisi yanlıştır?",
+      "a": "Tarihçe, mesleki eğitim prensiplerini tartışmak için önemlidir.",
+      "b": "Yenilikleri tarihe dayalı sağlam temellere oturtmak açısından faydalıdır.",
+      "c": "Sağlık harcamalarını azaltmada politika yapıcılara fizyoterapinin önemini göstermek için yön göstericidir.",
+      "d": "Sadece eski ve modası geçmiş cihazların nasıl kullanılacağını ezberlemeye yarar.",
+      "correctanswer": "Sadece eski ve modası geçmiş cihazların nasıl kullanılacağını ezberlemeye yarar.",
+      "category": "ftrgirisvize"
+    },
+    {
+      "id": 27,
+      "question": "Fizyoterapistlerin profesyonel uygulamaları desteklemek için hangi temele dayanması esastır?",
+      "a": "Geleneksel kulaktan dolma bilgilere",
+      "b": "Bilim temeline ve kanıta dayalı uygulamalara",
+      "c": "Yalnızca hekimlerin kişisel tecrübelerine",
+      "d": "Sadece hastanın o anki psikolojik isteklerine",
+      "correctanswer": "Bilim temeline ve kanıta dayalı uygulamalara",
+      "category": "ftrgirisvize"
+    },
+    {
+      "id": 28,
+      "question": "Koruyucu fizyoterapide 'Çeşitli yaş gruplarına göre hazırlanmış fiziksel aktivite programı uygulamak ve önerilerde bulunmak' neden önemlidir?",
+      "a": "Hastalıklara ve özre yol açan risk faktörlerini azaltmak için",
+      "b": "Daha fazla ilaç kullanımını teşvik etmek için",
+      "c": "Sadece sporcuların performansını ölçmek için",
+      "d": "Ameliyat sayısını artırmak için",
+      "correctanswer": "Hastalıklara ve özre yol açan risk faktörlerini azaltmak için",
+      "category": "ftrgirisvize"
+    },
+    {
+      "id": 29,
+      "question": "Aşağıdakilerden hangisi fizyoterapide klinik değerlendirme yapılan spesifik alanlardan (sistem problemlerinden) biri değildir?",
+      "a": "Nörolojik sistem problemleri",
+      "b": "Kardiyopulmoner sistem problemleri",
+      "c": "Kas-iskelet sistemi problemleri",
+      "d": "Gastrointestinal cerrahi operasyonları",
+      "correctanswer": "Gastrointestinal cerrahi operasyonları",
+      "category": "ftrgirisvize"
+    },
+    {
+      "id": 30,
+      "question": "Fizyoterapistlerin profesyonel uygulamalardaki yetkinliklerini korumaları için ne yapmaları önerilmektedir?",
+      "a": "Mezun olduktan sonra hiçbir eğitime katılmamak",
+      "b": "Yeni gözlem ve deneyler sonucunda ortaya çıkan yeni bilgilerden haberdar olmak",
+      "c": "Eski ve geleneksel yöntemleri hiç değiştirmeden kullanmak",
+      "d": "Sadece başkalarının tecrübelerini kopyalamak",
+      "correctanswer": "Yeni gözlem ve deneyler sonucunda ortaya çıkan yeni bilgilerden haberdar olmak",
+      "category": "ftrgirisvize"
+    },
+    {
+      "id": 31,
+      "question": "İletişim sürecinde kaynağın mesajını hedefe iletirken kullandığı 'Etkin Dinleme' kavramı aşağıdakilerden hangisini içerir?",
+      "a": "Hastanın anlattıklarını sadece sessizce dinlemeyi",
+      "b": "Gönderenin iletisini anlaşıldığını gösteren 'geri ileti' vermeyi",
+      "c": "Empati kurmadan doğrudan tedaviye geçmeyi",
+      "d": "Hastanın göz teması kurmasını engellemeyi",
+      "correctanswer": "Gönderenin iletisini anlaşıldığını gösteren 'geri ileti' vermeyi",
+      "category": "ftrgirisfinal"
+    },
+    {
+      "id": 32,
+      "question": "Fizyoterapist-hasta iletişiminde sağlık personelinin 'otorite' kullanımı ile ilgili hangisi doğrudur?",
+      "a": "Otorite kurmak hastadaki güveni her zaman artırır.",
+      "b": "Aşırı güç otoritesi kullanmak hastadaki endişe, kaygı ve korkuyu artırır.",
+      "c": "Sağlık personeli otoriteyi tamamen bırakmalı ve aşırı sevecen olmalıdır.",
+      "d": "Otorite ilişkisi sadece hasta gönülsüz olduğunda işe yarar.",
+      "correctanswer": "Aşırı güç otoritesi kullanmak hastadaki endişe, kaygı ve korkuyu artırır.",
+      "category": "ftrgirisfinal"
+    },
+    {
+      "id": 33,
+      "question": "Rehabilitasyon hizmetlerinde 'İnterdisipliner Ekip Çalışması'nın en belirgin özelliği aşağıdakilerden hangisidir?",
+      "a": "Ekip üyelerinin birbirinden bağımsız ve paralel çalışması",
+      "b": "Sınırların tamamen belirsizleşerek rollerin ayrımının imkansız hale gelmesi",
+      "c": "Üyelerin çok sık iletişimde bulunarak problem çözme odaklı ve ortak kararlar alması",
+      "d": "İletişim seviyesinin en alt düzeyde olduğu konsültasyon modeli olması",
+      "correctanswer": "Üyelerin çok sık iletişimde bulunarak problem çözme odaklı ve ortak kararlar alması",
+      "category": "ftrgirisfinal"
+    },
+    {
+      "id": 34,
+      "question": "Birden fazla disiplinin bulunduğu ekibin genel hasta hedefleri için 'bağımsız ve birbirine paralel olarak' konsültasyonla çalıştığı ekip modeli aşağıdakilerden hangisidir?",
+      "a": "Multidisipliner Ekip",
+      "b": "İnterdisipliner Ekip",
+      "c": "Transdisipliner Ekip",
+      "d": "Geleneksel Ekip",
+      "correctanswer": "Multidisipliner Ekip",
+      "category": "ftrgirisfinal"
+    },
+    {
+      "id": 35,
+      "question": "Rehabilitasyon ekibi içerisinde fizyoterapistin görevleri arasında aşağıdakilerden hangisi yer almaz?",
+      "a": "Hareket ve fonksiyon kayıplarını özel testlerle değerlendirmek",
+      "b": "Hastaya uygun tıbbi tanıyı koyarak ilaç tedavisi düzenlemek",
+      "c": "Ampute hastaları protez kullanımına hazırlamak",
+      "d": "Isı, ışık ve elektroterapi ajanlarını uygulamak",
+      "correctanswer": "Hastaya uygun tıbbi tanıyı koyarak ilaç tedavisi düzenlemek",
+      "category": "ftrgirisfinal"
+    },
+    {
+      "id": 36,
+      "question": "20 Kasım 1989 tarihinde kabul edilen Birleşmiş Milletler Çocuk Haklarına Dair Sözleşme'nin 9. ilkesine göre çocuklar öncelikle hangi duruma karşı korunmalıdır?",
+      "a": "Eğitim haklarının kısıtlanmasına",
+      "b": "Sadece fiziksel hastalıklara",
+      "c": "Her türlü istismar, ihmal ve sömürüye",
+      "d": "Oyun oynama alanlarının eksikliğine",
+      "correctanswer": "Her türlü istismar, ihmal ve sömürüye",
+      "category": "ftrgirisfinal"
+    },
+    {
+      "id": 37,
+      "question": "Özürlü çocukların yaşam kalitesini artırmak için aşağıdakilerden hangisi yapılması gerekenler arasında yer almaz?",
+      "a": "Bireysel bağımsızlık sağlamak",
+      "b": "Fırsat eşitliği vermek",
+      "c": "Uygun bir çevrede aile içinde yetişmesini sağlamak",
+      "d": "Toplumdan izole edilerek sadece özel merkezlerde yaşamalarını sağlamak",
+      "correctanswer": "Toplumdan izole edilerek sadece özel merkezlerde yaşamalarını sağlamak",
+      "category": "ftrgirisfinal"
+    },
+    {
+      "id": 38,
+      "question": "Küçüğün (18 yaş altı) tıbbi müdahaleye iştirakinde (özerkliğini kullanmasında) karşılaşılan en önemli etik öğe aşağıdakilerden hangisidir?",
+      "a": "Ailenin maddi durumu",
+      "b": "Yeterlilik meselesi (yaş ve gelişim faktörü)",
+      "c": "Hastanenin fiziki koşulları",
+      "d": "Hekimin kişisel tercihi",
+      "correctanswer": "Yeterlilik meselesi (yaş ve gelişim faktörü)",
+      "category": "ftrgirisfinal"
+    },
+    {
+      "id": 39,
+      "question": "Bir fizyoterapistin, kendisine başvuran hastalardan biriyle hemşeri olduğu için ona daha fazla zaman ayırması, daha az ücret talep etmesi ve daha fazla egzersiz yaptırması temel olarak hangi etik ilkenin ihlalidir?",
+      "a": "Gizlilik ilkesi",
+      "b": "Özerklik ilkesi",
+      "c": "Adalet (Ayrımcılık yapmama) ilkesi",
+      "d": "Aydınlatılmış onam ilkesi",
+      "correctanswer": "Adalet (Ayrımcılık yapmama) ilkesi",
+      "category": "ftrgirisfinal"
+    },
+    {
+      "id": 40,
+      "question": "Tıbbi etik kurallarına göre bir sağlık elemanının hastalarından talep edeceği ücretle ilgili sınırlandırma nasıldır?",
+      "a": "Sağlık elemanı istediği her ücreti serbestçe belirleyebilir.",
+      "b": "Meslek örgütünün belirlediği taban ücretin altında bir ücret alamaz.",
+      "c": "Akrabalarından ve hemşerilerinden hiçbir şekilde ücret alamaz.",
+      "d": "Sadece hastane yönetiminin belirlediği tavan ücreti uygulayabilir.",
+      "correctanswer": "Meslek örgütünün belirlediği taban ücretin altında bir ücret alamaz.",
+      "category": "ftrgirisfinal"
+    },
+    {
+      "id": 41,
+      "question": "Birleşmiş Milletler Çocuk Haklarına Dair Sözleşme’nin 24. maddesi gereğince ihmal edilen, istismara uğrayan çocukların iyileştirilmesi ve yeniden topluma kazandırılmasından kim sorumludur?",
+      "a": "Sadece ailenin kendisi",
+      "b": "Devletler",
+      "c": "Gönüllü kuruluşlar",
+      "d": "Okul öğretmenleri",
+      "correctanswer": "Devletler",
+      "category": "ftrgirisfinal"
+    },
+    {
+      "id": 42,
+      "question": "Pediatri kliniğinde çalışan bir fizyoterapist, 5 yaşındaki hastasının vücudunda sigara yanıklarına benzeyen izler fark etmiştir. Fizyoterapistin ilk yapması gereken etik ve yasal sorumluluk nedir?",
+      "a": "Aileyi uyararak tedaviyi sonlandırmak",
+      "b": "Olayı görmezden gelerek sadece fizik tedaviye odaklanmak",
+      "c": "Durumun gerçekliğinden emin olduktan sonra ilgili devlet kurumlarına bildirmek",
+      "d": "İzleri tedavi etmek için medikal krem önermek",
+      "correctanswer": "Durumun gerçekliğinden emin olduktan sonra ilgili devlet kurumlarına bildirmek",
+      "category": "ftrgirisfinal"
+    },
+    {
+      "id": 43,
+      "question": "Fizyoterapist-Hasta ilişkisinde 'Gizlilik' kavramına göre (Madde 14), fizyoterapist hastanın kişisel bilgilerini hangi durumda 3. şahıslarla veya kurumlarla paylaşabilir?",
+      "a": "Kendi mesleki prestijini artırmak istediğinde",
+      "b": "Hastasının menfaati söz konusu olduğunda (istismar, hayati tehlike vb.)",
+      "c": "Diğer hastaların merakını gidermek için",
+      "d": "Hiçbir koşulda, hiçbir kurumla paylaşamaz",
+      "correctanswer": "Hastasının menfaati söz konusu olduğunda (istismar, hayati tehlike vb.)",
+      "category": "ftrgirisfinal"
+    },
+    {
+      "id": 44,
+      "question": "Bir etik problem karşısında 'müdahale basamaklarının analizi' yapılırken aşağıdakilerden hangisi gözlemcinin kendisine sorması gereken sorulardan biri değildir?",
+      "a": "Seçimimiz kanunlara uyuyor mu?",
+      "b": "Bu basamakların her biri beni ve hastamı nasıl etkiler?",
+      "c": "Seçimimiz etik kurallara uyuyor mu?",
+      "d": "Bu durumdan mesleki olarak nasıl maddi kazanç sağlarım?",
+      "correctanswer": "Bu durumdan mesleki olarak nasıl maddi kazanç sağlarım?",
+      "category": "ftrgirisfinal"
+    },
+    {
+      "id": 45,
+      "question": "İletişimde 'Önyargı' kavramının sağlık personeli-hasta ilişkisindeki yeri için hangisi söylenebilir?",
+      "a": "Hastanın tedaviye uyumunu hızlandırır.",
+      "b": "Sağlıksız bir iletişimin alt yapısını meydana getirir.",
+      "c": "Sağlık personelinin empati yeteneğini artırır.",
+      "d": "İletişim sürecinde zaman kazandırır.",
+      "correctanswer": "Sağlıksız bir iletişimin alt yapısını meydana getirir.",
+      "category": "ftrgirisfinal"
+    },
+    {
+      "id": 46,
+      "question": "Herhangi bir kişi ya da konu hakkında önceden verilmiş olumlu veya olumsuz kararlara ne ad verilir?",
+      "a": "Empati",
+      "b": "Otorite",
+      "c": "Önyargı",
+      "d": "Semapati",
+      "correctanswer": "Önyargı",
+      "category": "ftrgirisfinal"
+    },
+    {
+      "id": 47,
+      "question": "Transdisipliner ekip çalışmasını interdisipliner çalışmadan ayıran en temel fark aşağıdakilerden hangisidir?",
+      "a": "İletişimin hiç olmaması",
+      "b": "Disiplinlere ait sınırların belirsizleşerek rollerin ayrımının zorlaşması",
+      "c": "Sadece uzman hekimlerin kararlara katılması",
+      "d": "Hastanın tedavi sürecine dahil edilmemesi",
+      "correctanswer": "Disiplinlere ait sınırların belirsizleşerek rollerin ayrımının zorlaşması",
+      "category": "ftrgirisfinal"
+    },
+    {
+      "id": 48,
+      "question": "Etkili bir dinleme gerçekleştiren sağlık personelinin sergilemesi gereken beden dili davranışlarından hangisi yanlıştır?",
+      "a": "Hasta ile aynı göz düzeyinde oturmak",
+      "b": "Göz ilişkisini korumak",
+      "c": "Sürekli saati kontrol ederek zamanın kısıtlı olduğunu hissettirmek",
+      "d": "İlgi duyduğunu gösteren jest ve mimikler yapmak",
+      "correctanswer": "Sürekli saati kontrol ederek zamanın kısıtlı olduğunu hissettirmek",
+      "category": "ftrgirisfinal"
+    },
+    {
+      "id": 49,
+      "question": "Engelli insanların hakları dikkate alındığında aşağıdakilerden hangisi bu haklar kapsamında yer almaz?",
+      "a": "Yeteneklerinin elverdiği ölçüde bağımsız yaşamak",
+      "b": "Geleceklerini etkileyen kararlarda isteklerinin dikkate alınması",
+      "c": "Sadece kendileri için ayrılmış kapalı kurumlarda barınmak",
+      "d": "Tarafsız ve doğru tıbbi yardım almak",
+      "correctanswer": "Sadece kendileri için ayrılmış kapalı kurumlarda barınmak",
+      "category": "ftrgirisfinal"
+    },
+    {
+      "id": 50,
+      "question": "Hasta yakınının sağlık personelinden beklentileri arasında aşağıdakilerden hangisi etik dışı bir beklentidir?",
+      "a": "Gerçekçi bir yaklaşım ile bilgilendirme yapılması",
+      "b": "Aşırı umutsuzluk veya yoksa umut verilmemesi",
+      "c": "Hastanın durumu kötüyse bile iyi olduğuna dair yalan söylenmesi",
+      "d": "Soru sorma imkanlarının sunulması",
+      "correctanswer": "Hastanın durumu kötüyse bile iyi olduğuna dair yalan söylenmesi",
+      "category": "ftrgirisfinal"
+    },
+    {
+      "id": 51,
+      "question": "İnflamatuar reaksiyonun organizmadaki temel amaçlarından biri aşağıdakilerden hangisi değildir?",
+      "a": "Hücresel yaralanmayı tamir etmek",
+      "b": "Yabancı cisim artıklarını temizlemek",
+      "c": "Dokuda kalıcı hasar oluşturarak bölgeyi hissizleştirmek",
+      "d": "Yaralayıcı faktörlerin etkisini kontrol ederek sınırlandırmak",
+      "correctanswer": "Dokuda kalıcı hasar oluşturarak bölgeyi hissizleştirmek",
+      "category": "ftrgirisikivize"
+    },
+    {
+      "id": 52,
+      "question": "İnflamasyon ve iyileşme sürecinde, 1. haftanın ortasında başlayıp fibroblastik infiltrasyon ve kollajen oluşumu ile karakterize olan devre hangisidir?",
+      "a": "1. Devre",
+      "b": "2. Devre",
+      "c": "3. Devre",
+      "d": "Remodeling (Yeniden şekillenme) Devresi",
+      "correctanswer": "2. Devre",
+      "category": "ftrgirisikivize"
+    },
+    {
+      "id": 53,
+      "question": "Aşağıdakilerden hangisi inflamatuar reaksiyonu ve doku iyileşmesini etkileyen faktörlerden biri olarak sayılmaz?",
+      "a": "Hastanın yaşı",
+      "b": "Hastanın beslenme durumu",
+      "c": "Diyabet ve anemi gibi sistemik hastalıklar",
+      "d": "Hastanın eğitim durumu",
+      "correctanswer": "Hastanın eğitim durumu",
+      "category": "ftrgirisikivize"
+    },
+    {
+      "id": 54,
+      "question": "İnflamasyonun 2. devresinde, esas doku hücrelerinin bulunmadığı yere dolan ve doku onarımını sağlayan karakteristik hücre aşağıdakilerden hangisidir?",
+      "a": "Nötrofil",
+      "b": "Makrofaj",
+      "c": "Fibroblast",
+      "d": "Eritrosit",
+      "correctanswer": "Fibroblast",
+      "category": "ftrgirisikivize"
+    },
+    {
+      "id": 55,
+      "question": "Mevcut veya potansiyel doku hasarının yol açtığı, bireysel ve çok yönlü olan hoş olmayan duyu ya da duyusal deneyimlere ne ad verilir?",
+      "a": "Ağrı",
+      "b": "Ödem",
+      "c": "Spazm",
+      "d": "Parestezi",
+      "correctanswer": "Ağrı",
+      "category": "ftrgirisikivize"
+    },
+    {
+      "id": 56,
+      "question": "Ağrıyı sadece doku hasarıyla değil; bilişsel, emosyonel, çevresel ve sosyokültürel faktörlerin bir bütünü olarak ele alan model hangisidir?",
+      "a": "Biyomedikal Model",
+      "b": "Biyopsikososyal Model",
+      "c": "Kapı Kontrol Modeli",
+      "d": "Davranışsal Model",
+      "correctanswer": "Biyopsikososyal Model",
+      "category": "ftrgirisikivize"
+    },
+    {
+      "id": 57,
+      "question": "Genellikle 3-6 aydan uzun süren, kişinin yaşam kalitesini bozan ve sıklıkla depresyon ile umutsuzluğun eşlik ettiği ağrı tipi aşağıdakilerden hangisidir?",
+      "a": "Akut Ağrı",
+      "b": "Yansıyan Ağrı",
+      "c": "Kronik Ağrı",
+      "d": "Somatik Ağrı",
+      "correctanswer": "Kronik Ağrı",
+      "category": "ftrgirisikivize"
+    },
+    {
+      "id": 58,
+      "question": "Ağrılı uyaran vererek daha üst seviyedeki inhibitör mekanizmaların aktivasyonunu sağlayan ve 'zıt irritasyon' ile ağrı hafızalarını kırmayı hedefleyen sistem hangisidir?",
+      "a": "Kapı Kontrol Teorisi",
+      "b": "Opioid Sistem",
+      "c": "Otonomik Sistem",
+      "d": "Limbik Sistem",
+      "correctanswer": "Opioid Sistem",
+      "category": "ftrgirisikivize"
+    },
+    {
+      "id": 59,
+      "question": "Termodinamik biliminin 2. yasasına göre ısı transferi ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "a": "Isı her zaman soğuk cisimden sıcak cisime kendiliğinden akar.",
+      "b": "Soğuk olandan sıcak olana kendiliğinden ısı transferi gerçekleşmez.",
+      "c": "Enerji hiçbir zaman başka bir forma dönüşemez.",
+      "d": "Isı transferi için iki cismin de aynı sıcaklıkta olması gerekir.",
+      "correctanswer": "Soğuk olandan sıcak olana kendiliğinden ısı transferi gerçekleşmez.",
+      "category": "ftrgirisikivize"
+    },
+    {
+      "id": 60,
+      "question": "Dokularda temperatürün her 10°C'lik yükselmesi, hücrelerin kimyasal aktiviteleri ve metabolik hızlarında nasıl bir etki yaratır?",
+      "a": "Yarı yarıya azaltır.",
+      "b": "Hiçbir değişikliğe yol açmaz.",
+      "c": "2-3 kat artırır.",
+      "d": "Metabolizmayı tamamen durdurur.",
+      "correctanswer": "2-3 kat artırır.",
+      "category": "ftrgirisikivize"
+    },
+    {
+      "id": 61,
+      "question": "Aşağıdakilerden hangisi patoloji seviyesinin daha derin olduğu (yaklaşık 3-5 cm derinlik) durumlarda kullanılan derin sıcaklık ajanlarından biridir?",
+      "a": "Hot-Packs",
+      "b": "Parafin",
+      "c": "Ultrason (US)",
+      "d": "Fluidoterapi",
+      "correctanswer": "Ultrason (US)",
+      "category": "ftrgirisikivize"
+    },
+    {
+      "id": 62,
+      "question": "Isı ajanlarının lokal olarak uygulanması sonucunda aşağıdakilerden hangisinin gerçekleşmesi beklenmez?",
+      "a": "Kas spazmı ve ağrı azalır.",
+      "b": "Bölgesel kan akımı artar.",
+      "c": "Doku iyileşmesi kolaylaşır.",
+      "d": "Eklemlerdeki sertlik ve gerginlik artar.",
+      "correctanswer": "Eklemlerdeki sertlik ve gerginlik artar.",
+      "category": "ftrgirisikivize"
+    },
+    {
+      "id": 63,
+      "question": "Elektromanyetik spektrumda yer alan ve dokulara kolaylıkla penetre olarak atom yapısını değiştirebilen, yüksek seviyelerde hücre ölümüne yol açabilen 'İyonize Enerji'ye örnek hangisidir?",
+      "a": "İnfraruj ışınları",
+      "b": "X ve Gamma ışınları (Röntgen vb.)",
+      "c": "Görünür ışınlar",
+      "d": "Radyo dalgaları",
+      "correctanswer": "X ve Gamma ışınları (Röntgen vb.)",
+      "category": "ftrgirisikivize"
+    },
+    {
+      "id": 64,
+      "question": "'Işınların şiddeti, ışık kaynağından uzaklığın karesi ile ters orantılıdır.' tanımı fiziğin hangi kanununu ifade eder?",
+      "a": "Ters Kare Kanunu",
+      "b": "Kosinüs Kanunu",
+      "c": "Termodinamiğin 1. Yasası",
+      "d": "Yansıma Kanunu",
+      "correctanswer": "Ters Kare Kanunu",
+      "category": "ftrgirisikivize"
+    },
+    {
+      "id": 65,
+      "question": "Işık kaynağının uygulama yüzeyine geliş açısı '0' (sıfır) olduğunda, yani ışınlar dokuya tam dik geldiğinde yansıma ve penetrasyon nasıl etkilenir?",
+      "a": "Yansıma maksimum, penetrasyon minimum düzeyde olur.",
+      "b": "Yansıma minimum düzeyde olur, penetre olan enerji maksimum olur.",
+      "c": "Hem yansıma hem de penetrasyon sıfırlanır.",
+      "d": "Işınların tamamı çevreye dağılır, etki oluşmaz.",
+      "correctanswer": "Yansıma minimum düzeyde olur, penetre olan enerji maksimum olur.",
+      "category": "ftrgirisikivize"
+    },
+    {
+      "id": 66,
+      "question": "Ters Kare Kanunu'na göre, ışık kaynağı uygulama yüzeyinden uzaklaştıkça aşağıdakilerden hangisi gerçekleşir?",
+      "a": "Birim alana düşen enerji şiddeti azalır.",
+      "b": "Radyasyonun yayıldığı alan daralır.",
+      "c": "Birim alana düşen enerji şiddeti artar.",
+      "d": "Yanık riski maksimum seviyeye çıkar.",
+      "correctanswer": "Birim alana düşen enerji şiddeti azalır.",
+      "category": "ftrgirisikivize"
+    },
+    {
+      "id": 67,
+      "question": "Fizik tedavide kullanılan İnfraruj (IR) ışınlarının dalga boyu aralığı yaklaşık olarak nedir?",
+      "a": "10-200 nm",
+      "b": "300-400 nm",
+      "c": "770-15.000 nm",
+      "d": "20.000-50.000 nm",
+      "correctanswer": "770-15.000 nm",
+      "category": "ftrgirisikivize"
+    },
+    {
+      "id": 68,
+      "question": "Tungsten flamalı lambalar gibi 'Işıklı IR kaynakları'nın ışıksız kaynaklara göre temel farkı nedir?",
+      "a": "Sadece 0.5 mm yüzeyel penetrasyon sağlarlar.",
+      "b": "Kapillerlere kadar daha derin bir ısıtma sağlarlar.",
+      "c": "Gün ışığı (görünür ışın) yaymazlar.",
+      "d": "Sadece uzak IR dalgaları üretirler.",
+      "correctanswer": "Kapillerlere kadar daha derin bir ısıtma sağlarlar.",
+      "category": "ftrgirisikivize"
+    },
+    {
+      "id": 69,
+      "question": "Aşağıdakilerden hangisi İnfraruj (IR) uygulamasının tedavi esnasında sağladığı avantajlardan biridir?",
+      "a": "Sıcaklığın kaslara kadar çok derinlere inebilmesi",
+      "b": "Uygulanan sahaya hiçbir mekanik ağırlık vermemesi ve sahanın gözle izlenebilmesi",
+      "c": "Sahanın kurumasına yol açması",
+      "d": "İstenilen her durumda kıyafet üzerinden uygulanabilmesi",
+      "correctanswer": "Uygulanan sahaya hiçbir mekanik ağırlık vermemesi ve sahanın gözle izlenebilmesi",
+      "category": "ftrgirisikivize"
+    },
+    {
+      "id": 70,
+      "question": "Aşağıdakilerden hangisi İnfraruj uygulamasının kesinlikle kontrendike (sakıncalı) olduğu durumlardan biri değildir?",
+      "a": "Periferal Nöropati gibi duyu kaybı olan durumlar",
+      "b": "Akut inflamatuar durumlar ve akut hemipleji",
+      "c": "Tromboflebit ve damar tıkanıklıkları",
+      "d": "Kronik bel ve sırt kası spazmları (Miyalji)",
+      "correctanswer": "Kronik bel ve sırt kası spazmları (Miyalji)",
+      "category": "ftrgirisikivize"
+    },
+    {
+      "id": 71,
+      "question": "Fizyoterapide kullanılan 'LAZER' (LASER) kelimesinin İngilizce açılımının Türkçe karşılığı aşağıdakilerden hangisidir?",
+      "a": "Radyasyonun uyarılmasıyla kuvvetlendirilmiş ışın",
+      "b": "Yüksek frekanslı ultrasonik ses dalgaları",
+      "c": "Doğal güneş ışınlarının filtrelenmiş hali",
+      "d": "Elektromanyetik alan yaratan radyo dalgaları",
+      "correctanswer": "Radyasyonun uyarılmasıyla kuvvetlendirilmiş ışın",
+      "category": "ftrgirisikifinal"
+    },
+    {
+      "id": 72,
+      "question": "Fizyoterapide yaygın olarak kullanılan, <35 mJ/cm2 dozajında uygulanan ve dokuda termal (ısıtıcı) etki yaratmayan lazer türü aşağıdakilerden hangisidir?",
+      "a": "Sıcak-Sert Lazer",
+      "b": "Soğuk-Yumuşak Lazer (LLLT)",
+      "c": "Cerrahi Lazer",
+      "d": "Karbondioksit Lazeri",
+      "correctanswer": "Soğuk-Yumuşak Lazer (LLLT)",
+      "category": "ftrgirisikifinal"
+    },
+    {
+      "id": 73,
+      "question": "Aşağıdakilerden hangisi Lazer uygulamasının kesin kontrendikasyonlarından (sakıncalı olduğu durumlardan) biri değildir?",
+      "a": "Kanser, malignite ve radyoterapi gören hastalar",
+      "b": "Hamilelik dönemi",
+      "c": "Kalp pili (pacemaker) olan hastalar",
+      "d": "Ağrılı kas spazmları ve miyozit",
+      "correctanswer": "Ağrılı kas spazmları ve miyozit",
+      "category": "ftrgirisikifinal"
+    },
+    {
+      "id": 74,
+      "question": "Son yıllarda popüler olan, dokuları aşırı ısıtmadan 3-4 cm derine penetre olabilen ve dalga boyu 1064 nm olan 'Nd:YAG' lazer türü aşağıdakilerden hangisidir?",
+      "a": "Yüksek Yoğunluklu Lazer (HIL)",
+      "b": "Ultraviyole Lazer",
+      "c": "Gaz Lazer",
+      "d": "Düşük Yoğunluklu Lazer (LLLT)",
+      "correctanswer": "Yüksek Yoğunluklu Lazer (HIL)",
+      "category": "ftrgirisikifinal"
+    },
+    {
+      "id": 75,
+      "question": "Fizyoterapide kullanılan Ultraviyole (UVL) ışınlarının elektromanyetik spektrumdaki dalga boyu aralığı aşağıdakilerden hangisidir?",
+      "a": "10-50 nm",
+      "b": "180-390 nm",
+      "c": "600-1000 nm",
+      "d": "770-15.000 nm",
+      "correctanswer": "180-390 nm",
+      "category": "ftrgirisikifinal"
+    },
+    {
+      "id": 76,
+      "question": "Aşağıdakilerden hangisi Ultraviyole (UVL) uygulamasının kesinlikle kontrendike olduğu sistemik hastalıklardan biridir?",
+      "a": "Sistemik Lupus Eritematozus (SLE)",
+      "b": "Osteoartrit (Kireçlenme)",
+      "c": "Romatoid Artrit",
+      "d": "Fibromiyalji",
+      "correctanswer": "Sistemik Lupus Eritematozus (SLE)",
+      "category": "ftrgirisikifinal"
+    },
+    {
+      "id": 77,
+      "question": "UVL tedavisi gören bir hastanın çilek, incir tüketmesi veya kolonya, parfüm gibi kozmetikler kullanması hangi riski artırır?",
+      "a": "Işınların derine inmesini engeller.",
+      "b": "Cildin UV ışınlarına karşı hassasiyetini (fotoalerji) artırır.",
+      "c": "Cildin soğumasına neden olur.",
+      "d": "Tedavinin etkisini tamamen yok eder.",
+      "correctanswer": "Cildin UV ışınlarına karşı hassasiyetini (fotoalerji) artırır.",
+      "category": "ftrgirisikifinal"
+    },
+    {
+      "id": 78,
+      "question": "Doğal organik selülozdan elde edilen katı maddelerin (Cellex), aşağıdan verilen sıcak hava akımıyla titreşmesi (fludizasyon) prensibine dayanan kuru girdap banyosuna ne ad verilir?",
+      "a": "Fluidoterapi",
+      "b": "Parafin",
+      "c": "Hot-pack",
+      "d": "Kısa Dalga Diatermi",
+      "correctanswer": "Fluidoterapi",
+      "category": "ftrgirisikifinal"
+    },
+    {
+      "id": 79,
+      "question": "Yüzeyel sıcaklık ajanı olan Hot-pack (sıcak paket) uygulamasında, yanıkları önlemek için paket ile deri arasına ortalama kaç kat havlu konulmalıdır?",
+      "a": "1-2 kat",
+      "b": "3-4 kat",
+      "c": "6-8 kat",
+      "d": "10-12 kat",
+      "correctanswer": "6-8 kat",
+      "category": "ftrgirisikifinal"
+    },
+    {
+      "id": 80,
+      "question": "Parafin banyosunda, parafinin erime noktasını 50-55 °C'ye düşürmek ve cildin yanmasını önlemek için parafine hangi madde, hangi oranda katılır?",
+      "a": "Su (1/2 oranında)",
+      "b": "Mineral yağ (1/6 veya 1/7 oranında)",
+      "c": "Alkol (1/4 oranında)",
+      "d": "Silika jel (1/10 oranında)",
+      "correctanswer": "Mineral yağ (1/6 veya 1/7 oranında)",
+      "category": "ftrgirisikifinal"
+    },
+    {
+      "id": 81,
+      "question": "Suyun hızla sirkülasyonunun sağlandığı ve mekanik etki ile açık yaralardaki ölü dokuları temizleyen hidroterapi ajanı aşağıdakilerden hangisidir?",
+      "a": "Parafin",
+      "b": "Fluidoterapi",
+      "c": "Girdap Banyoları (Whirlpool)",
+      "d": "Hot-pack",
+      "correctanswer": "Girdap Banyoları (Whirlpool)",
+      "category": "ftrgirisikifinal"
+    },
+    {
+      "id": 82,
+      "question": "Hidroterapide kullanılan suyun 'Kaldırma Kuvveti' rehabilitasyonda hastaya temel olarak nasıl bir avantaj sağlar?",
+      "a": "Kaslarda şiddetli direnç oluşturarak kası yorar.",
+      "b": "Eklemlere binen yükü azaltır ve hareketleri kolaylaştırır.",
+      "c": "Sadece kan basıncını düşürmeye yarar.",
+      "d": "Deri yüzeyindeki ölü hücreleri temizler.",
+      "correctanswer": "Eklemlere binen yükü azaltır ve hareketleri kolaylaştırır.",
+      "category": "ftrgirisikifinal"
+    },
+    {
+      "id": 83,
+      "question": "Su içine batan cisme su tarafından her yönden eşit olarak uygulanan ve derinlik arttıkça artarak venöz-lenfatik dolaşımı destekleyen fiziksel kuvvet nedir?",
+      "a": "Vizkozite",
+      "b": "Kaldırma Kuvveti (Arşimet)",
+      "c": "Hidrostatik Basınç (Pascal)",
+      "d": "Yüzey Gerilimi",
+      "correctanswer": "Hidrostatik Basınç (Pascal)",
+      "category": "ftrgirisikifinal"
+    },
+    {
+      "id": 84,
+      "question": "Su içi egzersiz yöntemlerinden hangisi 'Proprioseptif Nöromusküler Fasilitasyon (PNF)' prensiplerine dayanır ve fizyoterapistin havuzda tek bir hasta ile birebir çalışmasını gerektirir?",
+      "a": "Konvansiyonel Yöntem",
+      "b": "Bad Ragaz Yöntemi",
+      "c": "Kneipp Yöntemi",
+      "d": "Balneoterapi",
+      "correctanswer": "Bad Ragaz Yöntemi",
+      "category": "ftrgirisikifinal"
+    },
+    {
+      "id": 85,
+      "question": "Boyun seviyesine kadar havuz tedavisine (suya daldırma) alınan bir hastada aşağıdaki fizyolojik etkilerden hangisinin görülmesi beklenir?",
+      "a": "Kardiyak debide artış",
+      "b": "Kan basıncında şiddetli düşüş",
+      "c": "Böbrek (renal) fonksiyonlarında yavaşlama",
+      "d": "Solunum hızında ciddi azalma",
+      "correctanswer": "Kardiyak debide artış",
+      "category": "ftrgirisikifinal"
+    },
+    {
+      "id": 86,
+      "question": "Akut travmalarda ve yaralanmalarda ilk 24-72 saat içinde uygulanan temel fizik tedavi ajanı ve uygulanma amacı aşağıdakilerden hangisidir?",
+      "a": "Sıcak uygulama / Kan dolaşımını artırmak",
+      "b": "Soğuk uygulama / Metabolizmayı ve kanamayı azaltmak",
+      "c": "Derin masaj / Kas spazmını çözmek",
+      "d": "Lazer / Kollajen yapımını durdurmak",
+      "correctanswer": "Soğuk uygulama / Metabolizmayı ve kanamayı azaltmak",
+      "category": "ftrgirisikifinal"
+    },
+    {
+      "id": 87,
+      "question": "Uzun süreli soğuk uygulamalarında spastisite üzerinde nasıl bir etki oluşması hedeflenir?",
+      "a": "Spastisiteyi artırır.",
+      "b": "Spastisite üzerinde hiçbir etkisi yoktur.",
+      "c": "Spastisiteyi inhibe eder (azaltır).",
+      "d": "Sadece geçici bir kas krampına yol açar.",
+      "correctanswer": "Spastisiteyi inhibe eder (azaltır).",
+      "category": "ftrgirisikifinal"
+    },
+    {
+      "id": 88,
+      "question": "Aşağıdakilerden hangisi sıcak ve soğuk ajanların ortak fizyolojik etkilerinden biridir ve ağrı hafızasını kırmayı hedefler?",
+      "a": "Vazodilatasyon (Damar genişlemesi)",
+      "b": "Vazokonstriksiyon (Damar daralması)",
+      "c": "Zıt irritasyon (Counter-irritation) etkisi ile ağrıyı azaltmak",
+      "d": "Metabolizmayı hızlandırmak",
+      "correctanswer": "Zıt irritasyon (Counter-irritation) etkisi ile ağrıyı azaltmak",
+      "category": "ftrgirisikifinal"
+    },
+    {
+      "id": 89,
+      "question": "Şiddetli bir donma tablosunda (soğuk yaralanması), cilt renginin süt beyazı olması ve sertleşmesi sonrasında ilk 12-24 saat içinde deride ne oluşması beklenir?",
+      "a": "Anında iyileşme ve skar oluşumu",
+      "b": "Sadece geçici bir his kaybı",
+      "c": "Blister (su toplaması/kabarma)",
+      "d": "Bölgesel kıllanma artışı",
+      "correctanswer": "Blister (su toplaması/kabarma)",
+      "category": "ftrgirisikifinal"
+    },
+    {
+      "id": 90,
+      "question": "Soğuk uygulama esnasında tedavi edilecek vücut alanı ile ilgili fizyoterapistin dikkat etmesi gereken kural aşağıdakilerden hangisidir?",
+      "a": "Sistemik hastalıklarda (hipertansiyon vb.) soğuk her zaman güvenlidir.",
+      "b": "Çocuklar ve yaşlılar soğuk uygulamayı her zaman çok iyi tolere eder.",
+      "c": "Distal ekstremitelerde (örneğin el bileği) soğuk daha iyi tolere edilebilirken, gövdede (bel) sıcak tercih edilebilir.",
+      "d": "Açık yaralara doğrudan buz teması iyileşmeyi hızlandırır.",
+      "correctanswer": "Distal ekstremitelerde (örneğin el bileği) soğuk daha iyi tolere edilebilirken, gövdede (bel) sıcak tercih edilebilir.",
+      "category": "ftrgirisikifinal"
+    },
+    {
+      "id": 91,
+      "question": "1780 yılında kurbağa bacağının elektrik akımı ile kasıldığını saptayarak elektroterapinin temellerini atan bilim insanı kimdir?",
+      "a": "Alessandro Volta",
+      "b": "Luigi Galvani",
+      "c": "Michael Faraday",
+      "d": "Nicola Tesla",
+      "correctanswer": "Luigi Galvani",
+      "category": "elektrobirvize"
+    },
+    {
+      "id": 92,
+      "question": "Alternatif akımın (AC) mucidi olarak bilinen bilim insanı aşağıdakilerden hangisidir?",
+      "a": "Nicola Tesla",
+      "b": "John Wesney",
+      "c": "Alessandro Volta",
+      "d": "Luigi Galvani",
+      "correctanswer": "Nicola Tesla",
+      "category": "elektrobirvize"
+    },
+    {
+      "id": 93,
+      "question": "Elektrik akımının 1 saniyedeki atım (pulse) sayısına ne ad verilir ve birimi nedir?",
+      "a": "Amplitüd - Volt",
+      "b": "Durasyon - Milisaniye",
+      "c": "Frekans - Hertz (Hz)",
+      "d": "Şiddet - Amper",
+      "correctanswer": "Frekans - Hertz (Hz)",
+      "category": "elektrobirvize"
+    },
+    {
+      "id": 94,
+      "question": "Bir atımın (pulse) alt değerden (sıfır) üst değere (tepe noktası) ulaşması ile üst değerden tekrar sıfıra inmesi arasında geçen süreye ne ad verilir?",
+      "a": "Atım genişliği",
+      "b": "Uyarı ve dinlenme süresi (On-Off)",
+      "c": "Akomodasyon süresi",
+      "d": "Yükselme-Düşme Süresi (Ramp up-Ramp down)",
+      "correctanswer": "Yükselme-Düşme Süresi (Ramp up-Ramp down)",
+      "category": "elektrobirvize"
+    },
+    {
+      "id": 95,
+      "question": "Normal bir sinir hücresinin istirahat (dinlenme) membran potansiyeli yaklaşık olarak kaç mV'dur?",
+      "a": "+30 mV",
+      "b": "0 mV",
+      "c": "-70 mV",
+      "d": "-90 mV",
+      "correctanswer": "-70 mV",
+      "category": "elektrobirvize"
+    },
+    {
+      "id": 96,
+      "question": "Aksiyon potansiyelinin oluşması (depolarizasyon) sırasında hücre içine hızla girerek hücre içinin pozitifleşmesini sağlayan iyon aşağıdakilerden hangisidir?",
+      "a": "Potasyum (K+)",
+      "b": "Sodyum (Na+)",
+      "c": "Klorür (Cl-)",
+      "d": "Kalsiyum (Ca+2)",
+      "correctanswer": "Sodyum (Na+)",
+      "category": "elektrobirvize"
+    },
+    {
+      "id": 97,
+      "question": "Hücrenin depolarize olduğu ve ne kadar güçlü olursa olsun ikinci bir uyarana asla cevap veremediği döneme ne ad verilir?",
+      "a": "Mutlak (Absolute) Refrakter Periyod",
+      "b": "Rölatif Refrakter Periyod",
+      "c": "İstirahat Periyodu",
+      "d": "Akomodasyon Dönemi",
+      "correctanswer": "Mutlak (Absolute) Refrakter Periyod",
+      "category": "elektrobirvize"
+    },
+    {
+      "id": 98,
+      "question": "Düz (Galvanik) akımla ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "a": "Akımın yönü sürekli değişir.",
+      "b": "Sadece yüksek frekanslarda etkilidir.",
+      "c": "Elektronlar eksi (-) kutuptan artı (+) kutba düz, devamlı ve sabit olarak ilerler.",
+      "d": "Hücre zarında hiçbir kimyasal etki oluşturmaz.",
+      "correctanswer": "Elektronlar eksi (-) kutuptan artı (+) kutba düz, devamlı ve sabit olarak ilerler.",
+      "category": "elektrobirvize"
+    },
+    {
+      "id": 99,
+      "question": "Düz akım uygulamasında, anot (+) elektrot altında sinir iletim hızının azalmasına (baskılanmasına) ne ad verilir?",
+      "a": "Katelektrotonus",
+      "b": "Anelektrotonus",
+      "c": "Depolarizasyon",
+      "d": "Repolarizasyon",
+      "correctanswer": "Anelektrotonus",
+      "category": "elektrobirvize"
+    },
+    {
+      "id": 100,
+      "question": "Düz akım ile dokularda meydana gelen vazodilatasyonun (damar genişlemesinin) nedenlerinden biri aşağıdakilerden hangisidir?",
+      "a": "Adrenalin salınımının artması",
+      "b": "Kan basıncının aniden düşmesi",
+      "c": "Sodyum pompalarının durması",
+      "d": "Histamin maddesinin açığa çıkması",
+      "correctanswer": "Histamin maddesinin açığa çıkması",
+      "category": "elektrobirvize"
+    },
+    {
+      "id": 101,
+      "question": "İnsan vücudunda elektrik akımına karşı uyarılabilen (eksitabl) temel dokular aşağıdakilerden hangileridir?",
+      "a": "Kemik ve kıkırdak",
+      "b": "Epitel ve yağ dokusu",
+      "c": "Sinir ve kas dokusu",
+      "d": "Bağ dokusu ve kan",
+      "correctanswer": "Sinir ve kas dokusu",
+      "category": "elektrobirvize"
+    },
+    {
+      "id": 102,
+      "question": "Düz akım uygulamasında (+) kutbun (Anot) duyusal sinirler üzerindeki temel etkisi nedir?",
+      "a": "İğnelenme ve yanma hissi yaratır.",
+      "b": "Anestezi ve sedasyon (yatıştırıcı) etki oluşturur.",
+      "c": "Kas spazmını şiddetlendirir.",
+      "d": "Refleksleri aşırı hızlandırır.",
+      "correctanswer": "Anestezi ve sedasyon (yatıştırıcı) etki oluşturur.",
+      "category": "elektrobirvize"
+    },
+    {
+      "id": 103,
+      "question": "Periferik bir sinir kesildiğinde, kesi noktasının distalinde (ilerisinde) kalan akson kısmının dejenere olmasına ne ad verilir?",
+      "a": "Akomodasyon",
+      "b": "Reinnervasyon",
+      "c": "Wallerian Dejenerasyonu",
+      "d": "Demyelinizasyon",
+      "correctanswer": "Wallerian Dejenerasyonu",
+      "category": "elektrobirvize"
+    },
+    {
+      "id": 104,
+      "question": "Sinirin anatomik bütünlüğünün tamamen bozulduğu (kesildiği) ve genellikle cerrahi onarım gerektiren en ağır periferik sinir lezyonu tipi aşağıdakilerden hangisidir?",
+      "a": "Nöropraksi",
+      "b": "Nörotmezis",
+      "c": "Aksonotmezis",
+      "d": "Polinevrit",
+      "correctanswer": "Nörotmezis",
+      "category": "elektrobirvize"
+    },
+    {
+      "id": 105,
+      "question": "Denerve kasların uyarılmasında kullanılan Modifiye Galvanik Akımların 'Monopolar' uygulama tekniğinde, aktif (-) elektrot genellikle nereye yerleştirilir?",
+      "a": "Kasın motor noktasına",
+      "b": "Kasın insersiyosuna",
+      "c": "Eklemin hemen üzerine",
+      "d": "Sadece omurga köklerine",
+      "correctanswer": "Kasın motor noktasına",
+      "category": "elektrobirvize"
+    },
+    {
+      "id": 106,
+      "question": "Denerve bir kasa elektrik stimülasyonu uygulanırken 'dinlenme (off)' süresinin 'uyarılma (on)' süresinden uzun tutulmasının temel sebebi nedir?",
+      "a": "Cilt yanıklarını önlemek",
+      "b": "Kasın yorulmasını (yorgunluğunu) önlemek",
+      "c": "Cihazın aşırı ısınmasını engellemek",
+      "d": "Akımın derine inmesini sağlamak",
+      "correctanswer": "Kasın yorulmasını (yorgunluğunu) önlemek",
+      "category": "elektrobirvize"
+    },
+    {
+      "id": 107,
+      "question": "Elektrik akımı (uyaran) yavaş yavaş artırıldığında, sinirin eşik potansiyelinin yükselmesi ve aksiyon potansiyeli oluşturmanın giderek zorlaşması durumuna ne ad verilir?",
+      "a": "Akomodasyon",
+      "b": "Polarizasyon",
+      "c": "Adaptasyon",
+      "d": "Refrakterlik",
+      "correctanswer": "Akomodasyon",
+      "category": "elektrobirvize"
+    },
+    {
+      "id": 108,
+      "question": "Düz akım uygulanırken elektrotlar arasındaki geçiş yolu üzerinde meydana gelen, doku sıvılarındaki madde değişimine sebep olarak metabolizmayı artıran etkiye ne ad verilir?",
+      "a": "Polar etki",
+      "b": "Kimyasal yanık etkisi",
+      "c": "İnterpolar etki",
+      "d": "Analjezik etki",
+      "correctanswer": "İnterpolar etki",
+      "category": "elektrobirvize"
+    },
+    {
+      "id": 109,
+      "question": "Vücut dokularının elektrik iletkenliği göz önüne alındığında, aşağıdakilerden hangisi elektriği iyi iletmez ve direnci (rezistansı) yüksektir?",
+      "a": "Kas dokusu",
+      "b": "Kan",
+      "c": "Tuz solüsyonu içeren dokular",
+      "d": "Yağ dokusu",
+      "correctanswer": "Yağ dokusu",
+      "category": "elektrobirvize"
+    },
+    {
+      "id": 110,
+      "question": "Düz akımlarda elektrotların tam altında, refleks vazodilatasyona sekonder olarak (damar genişlemesine bağlı) deride oluşan kızarıklığa ne ad verilir?",
+      "a": "Eritem",
+      "b": "Ödem",
+      "c": "Skar",
+      "d": "Blister",
+      "correctanswer": "Eritem",
+      "category": "elektrobirvize"
+    },
+    {
+      "id": 111,
+      "question": "Fizyoterapide kullanılan Faradik akımların frekans aralığı ve kası stimüle edebilmesi (uyarabilmesi) için temel şart aşağıdakilerden hangisidir?",
+      "a": "10-20 Hz / Kas denerve olmalıdır.",
+      "b": "30-100 Hz / Kas inerve (sinir sağlam) olmalıdır.",
+      "c": "1000-2000 Hz / Kasın tendon kesisi olmalıdır.",
+      "d": "2500 Hz / Kas inerve olmamalıdır.",
+      "correctanswer": "30-100 Hz / Kas inerve (sinir sağlam) olmalıdır.",
+      "category": "elektrobirfinal"
+    },
+    {
+      "id": 112,
+      "question": "Faradik akım uygulamasında 'Gerilim Altında Faradizm' tekniği temel olarak hangi tedavi amacıyla kullanılır?",
+      "a": "Kollarda oluşan total ödemi azaltmak",
+      "b": "Eklem içi sıvı artışını engellemek",
+      "c": "Adezyonları çözmek ve kontraktür açmak",
+      "d": "Denerve olmuş kası kuvvetlendirmek",
+      "correctanswer": "Adezyonları çözmek ve kontraktür açmak",
+      "category": "elektrobirfinal"
+    },
+    {
+      "id": 113,
+      "question": "Elektrodiyagnoz testleri (elektriksel tanı) klinik olarak ağırlıklı olarak hangi hastalık grubunda kullanılır?",
+      "a": "I. Motor Nöron Hastalıkları",
+      "b": "II. Motor Nöron Hastalıkları",
+      "c": "Kardiyolojik ritim bozuklukları",
+      "d": "Serebral Palsi gibi beyin felçleri",
+      "correctanswer": "II. Motor Nöron Hastalıkları",
+      "category": "elektrobirfinal"
+    },
+    {
+      "id": 114,
+      "question": "Sağlıklı bir kasta motor noktadan kesikli galvanik akım ile stimülasyon yapıldığında Katot Kapanış Kontraksiyonunun (KKK), Anot Kapanış Kontraksiyonundan (AKK) daha şiddetli olması (KKK > AKK) kuralına ne ad verilir?",
+      "a": "Pflüger Kanunu",
+      "b": "Erb Fenomeni",
+      "c": "Kots Kanunu",
+      "d": "Nemec Prensibi",
+      "correctanswer": "Pflüger Kanunu",
+      "category": "elektrobirfinal"
+    },
+    {
+      "id": 115,
+      "question": "Periferik bir sinirde yaralanma (dejenerasyon) varsa, galvanik test sırasında Anot altında daha fazla kontraksiyon görülmesi durumuna (AKK > KKK) ne ad verilir?",
+      "a": "Pflüger Kanunu",
+      "b": "Erb Fenomeni",
+      "c": "Longitunal Reaksiyon",
+      "d": "Myotonik Reaksiyon",
+      "correctanswer": "Erb Fenomeni",
+      "category": "elektrobirfinal"
+    },
+    {
+      "id": 116,
+      "question": "Myastenia gravis hastalarında görülen, kas stimüle edildiğinde oldukça çabuk yorulma ile kendini gösteren elektriksel anormal reaksiyon hangisidir?",
+      "a": "Myotonik reaksiyon",
+      "b": "Myastenik reaksiyon",
+      "c": "Remark reaksiyonu",
+      "d": "Longitunal reaksiyon",
+      "correctanswer": "Myastenik reaksiyon",
+      "category": "elektrobirfinal"
+    },
+    {
+      "id": 117,
+      "question": "1940'lı yılların sonunda sinüzoidal akımların modüle edilmesiyle Diadinamik Akımları ilk olarak keşfeden ve kullanan kişi kimdir?",
+      "a": "Pierre Bernard",
+      "b": "Hans Nemec",
+      "c": "Yakov Kots",
+      "d": "Luigi Galvani",
+      "correctanswer": "Pierre Bernard",
+      "category": "elektrobirfinal"
+    },
+    {
+      "id": 118,
+      "question": "Diadinamik akım uygulamasında, tedavi öncesinde 'Basis' kavramı ile ifade edilen işlem aşağıdakilerden hangisidir?",
+      "a": "Kasların buzla uyuşturulması",
+      "b": "Düşük şiddette bir düz akım uygulanması",
+      "c": "Yüksek frekanslı alternatif akım verilmesi",
+      "d": "Diadinamik dozajın yavaş yavaş artırılması",
+      "correctanswer": "Düşük şiddette bir düz akım uygulanması",
+      "category": "elektrobirfinal"
+    },
+    {
+      "id": 119,
+      "question": "Aşağıdakilerden hangisi diadinamik akımların 5 farklı dalga formundan biri değildir?",
+      "a": "Difaz Fikse (DF)",
+      "b": "Kurt (Kısa) Period (CP)",
+      "c": "Monofaz Fikse (MF)",
+      "d": "Yüksek Voltajlı Kesikli Akım (HVPC)",
+      "correctanswer": "Yüksek Voltajlı Kesikli Akım (HVPC)",
+      "category": "elektrobirfinal"
+    },
+    {
+      "id": 120,
+      "question": "Enterferansiyal Akım (EFA) tedavisi kim tarafından geliştirilmiştir ve klinik tedaviye sunulmuştur?",
+      "a": "Hans Nemec",
+      "b": "Pierre Bernard",
+      "c": "Alessandro Volta",
+      "d": "Yakov Kots",
+      "correctanswer": "Hans Nemec",
+      "category": "elektrobirfinal"
+    },
+    {
+      "id": 121,
+      "question": "Enterferansiyal Akım (EFA) tedavisinin temel çalışma mekanizması aşağıdakilerden hangisidir?",
+      "a": "Düz akımın sürekli olarak dokuya verilmesi",
+      "b": "İki farklı frekanstaki orta frekanslı alternatif akımın vücut içinde kesiştirilmesi",
+      "c": "2500 Hz frekanstaki akımın saniyede 50 atım yapacak şekilde kesilmesi",
+      "d": "Elektromıknatıs dalgalarıyla dokunun derinlemesine ısıtılması",
+      "correctanswer": "İki farklı frekanstaki orta frekanslı alternatif akımın vücut içinde kesiştirilmesi",
+      "category": "elektrobirfinal"
+    },
+    {
+      "id": 122,
+      "question": "EFA tedavisinde 1. kanaldaki akım 4000 Hz'de sabitlenir, 2. kanaldaki akım ise 4000 ile 4150 Hz arasında değiştirilirse, elde edilen tedavi frekansı (AMF) kaç Hz olur?",
+      "a": "4000 Hz",
+      "b": "100 Hz",
+      "c": "150 Hz",
+      "d": "8150 Hz",
+      "correctanswer": "150 Hz",
+      "category": "elektrobirfinal"
+    },
+    {
+      "id": 123,
+      "question": "Enterferansiyal akım cihazları kullanılırken, odadaki hangi fizik tedavi cihazlarından kaynaklı tehlike nedeniyle en az 5 metre mesafe bırakılmalıdır?",
+      "a": "Hot-Pack kazanları",
+      "b": "Ultrason cihazları",
+      "c": "Kısa Dalga ve Mikrodalga Diatermi cihazları",
+      "d": "TENS cihazları",
+      "correctanswer": "Kısa Dalga ve Mikrodalga Diatermi cihazları",
+      "category": "elektrobirfinal"
+    },
+    {
+      "id": 124,
+      "question": "Rus Akımları (Kots akımları) temel olarak hangi fizik tedavi amacı için kullanılır?",
+      "a": "İltihabı dindirmek ve yara iyileşmesi sağlamak",
+      "b": "Sadece analjezik (ağrı kesici) etki oluşturmak",
+      "c": "NMES prensibi ile kas gücünü artırmak ve reedükasyon",
+      "d": "Denerve kasın erimesini (atrofiyi) tamamen durdurmak",
+      "correctanswer": "NMES prensibi ile kas gücünü artırmak ve reedükasyon",
+      "category": "elektrobirfinal"
+    },
+    {
+      "id": 125,
+      "question": "Rus Akımlarının biyofiziksel özellikleriyle ilgili olarak verilen frekans değeri hangisidir?",
+      "a": "100 Hz",
+      "b": "2500 Hz",
+      "c": "4000 Hz",
+      "d": "10.000 Hz",
+      "correctanswer": "2500 Hz",
+      "category": "elektrobirfinal"
+    },
+    {
+      "id": 126,
+      "question": "Kots tarafından önerilen Rus akımları '10/10/50' eğitim protokolünün anlamı aşağıdakilerden hangisidir?",
+      "a": "10 mA şiddet / 10 dakika uyarı / 50 Hz frekans",
+      "b": "10 saniye uyarı (on) / 50 saniye dinlenme (off) ile oluşan 10 dakikalık tedavi",
+      "c": "10 dakika sıcak uygulama / 10 dakika akım / 50 dakika soğuk uygulama",
+      "d": "10 gün tedavi / 10 gün ara / toplam 50 seans",
+      "correctanswer": "10 saniye uyarı (on) / 50 saniye dinlenme (off) ile oluşan 10 dakikalık tedavi",
+      "category": "elektrobirfinal"
+    },
+    {
+      "id": 127,
+      "question": "Aşağıdakilerden hangisi Rus Akımlarının kontrendikasyonlarından (sakıncalı olduğu durumlardan) biridir?",
+      "a": "Ön boyun bölgesi ve transtorasik alan (kalp etkileşimi)",
+      "b": "Sedanter yaşayan kişilerde kas kuvvetlendirme",
+      "c": "Cerrahi sonrası kasların yeniden kuvvetlendirilmesi",
+      "d": "İmmobilizasyon süresince kas kuvvetini koruma amacı",
+      "correctanswer": "Ön boyun bölgesi ve transtorasik alan (kalp etkileşimi)",
+      "category": "elektrobirfinal"
+    },
+    {
+      "id": 128,
+      "question": "Myotonia konjenita hastalığında görülen ve kas stimüle edildiğinde akım kesilse dahi kasılmanın bir süre daha devam ettiği anormal elektriksel reaksiyon hangisidir?",
+      "a": "Remark reaksiyonu",
+      "b": "Longitunal reaksiyon",
+      "c": "Myastenik reaksiyon",
+      "d": "Myotonik reaksiyon",
+      "correctanswer": "Myotonik reaksiyon",
+      "category": "elektrobirfinal"
+    },
+    {
+      "id": 129,
+      "question": "Elektrodiyagnoz (EMG) işlemi sırasında kas dokusundaki elektriksel değişiklikleri büyüterek görünür kılan cihaza ne ad verilir?",
+      "a": "Osilatör",
+      "b": "Ossiloskop",
+      "c": "Dinamometre",
+      "d": "Gonyometre",
+      "correctanswer": "Ossiloskop",
+      "category": "elektrobirfinal"
+    },
+    {
+      "id": 130,
+      "question": "Kol ya da bacakta total bir ödem olduğunda, uzvun 45-60 derece kaldırılarak elastik bandajla sarıldığı ve faradik akım uygulandığı tedavi yöntemi hangisidir?",
+      "a": "Gerilim altında faradizm",
+      "b": "İyontoforezis",
+      "c": "Basınç altında faradizm",
+      "d": "Su içi modifiye galvanik uygulama",
+      "correctanswer": "Basınç altında faradizm",
+      "category": "elektrobirfinal"
+    },
+    {
+      "id": 131,
+      "question": "TENS'in (Transkutanöz Elektriksel Sinir Stimülasyonu) ağrı tedavisindeki keşfi temel olarak hangi teoriye ve bilim insanlarına dayanır?",
+      "a": "Melzack ve Wall - Kapı Kontrol Teorisi",
+      "b": "Hans Nemec - Enterferansiyel Akım",
+      "c": "Luigi Galvani - Galvanizm",
+      "d": "Yakov Kots - Rus Akımları Teorisi",
+      "correctanswer": "Melzack ve Wall - Kapı Kontrol Teorisi",
+      "category": "elektroikivize"
+    },
+    {
+      "id": 132,
+      "question": "Kapı kontrol teorisine göre, ağrı sinyallerinin modülasyonu (kapının açılıp kapanması) omuriliğin hangi bölgesinde gerçekleşir?",
+      "a": "Ön boynuz (Ventral kolon)",
+      "b": "Arka boynuz (Dorsal kolon)",
+      "c": "Serebellum (Beyincik)",
+      "d": "Medulla oblongata (Omurilik soğanı)",
+      "correctanswer": "Arka boynuz (Dorsal kolon)",
+      "category": "elektroikivize"
+    },
+    {
+      "id": 133,
+      "question": "TENS uygulamasında uyarılması hedeflenen, dokunma ve propriosepsiyon duyusunu ileterek ağrı kapısını 'kapatan' kalın ve miyelinli sinir lifleri hangileridir?",
+      "a": "A-beta lifleri",
+      "b": "C lifleri",
+      "c": "A-delta lifleri",
+      "d": "Gama motor nöronlar",
+      "correctanswer": "A-beta lifleri",
+      "category": "elektroikivize"
+    },
+    {
+      "id": 134,
+      "question": "TENS uygulamasının yan etkilerinden biri olan elektriksel yanıkların en sık görülen nedeni aşağıdakilerden hangisidir?",
+      "a": "Tedavinin 20 dakika sürmesi",
+      "b": "Karbon lastik elektrot kullanılması",
+      "c": "Jelin tüm elektrot yüzeyine yayılmaması veya kablo izolasyon hasarı",
+      "d": "Frekansın 100 Hz olarak ayarlanması",
+      "correctanswer": "Jelin tüm elektrot yüzeyine yayılmaması veya kablo izolasyon hasarı",
+      "category": "elektroikivize"
+    },
+    {
+      "id": 135,
+      "question": "Yüksek Voltaj Kesikli Galvanik Stimülasyonda (HVPC) ciltte irritasyon ve yanık oluşumunu engelleyen en temel biyofiziksel özellik nedir?",
+      "a": "Çok aşırı kısa atım süresi (5-100 µsn) ve düşük akım şiddeti kullanılması",
+      "b": "Sürekli ve düz bir akım (Galvani) kullanılması",
+      "c": "Akım şiddetinin 100 mA'nın üzerine çıkarılması",
+      "d": "Atım genişliğinin saniyeler seviyesinde olması",
+      "correctanswer": "Çok aşırı kısa atım süresi (5-100 µsn) ve düşük akım şiddeti kullanılması",
+      "category": "elektroikivize"
+    },
+    {
+      "id": 136,
+      "question": "HVPC uygulamasında inflamasyonu ve ödemi azaltmak amacıyla klinikte en çok tercih edilen frekans ve polarite ayarı aşağıdakilerden hangisidir?",
+      "a": "1-10 pps / Pozitif polarite",
+      "b": "50 pps / Değişken polarite",
+      "c": "100 pps / Negatif polarite (-)",
+      "d": "80 pps / Pozitif polarite (+)",
+      "correctanswer": "100 pps / Negatif polarite (-)",
+      "category": "elektroikivize"
+    },
+    {
+      "id": 137,
+      "question": "Aşağıdakilerden hangisi Yüksek Voltaj Kesikli Galvanik Stimülasyonun (HVPC) klinik kullanım alanlarından (endikasyonlarından) biri değildir?",
+      "a": "Ağrıyı azaltmak",
+      "b": "İnflamasyonu ve ödemi azaltmak",
+      "c": "Deri yara iyileşmesini hızlandırmak",
+      "d": "Vücut ısısını tüm sistemde 2-3 derece düşürmek",
+      "correctanswer": "Vücut ısısını tüm sistemde 2-3 derece düşürmek",
+      "category": "elektroikivize"
+    },
+    {
+      "id": 138,
+      "question": "Sağlam periferal sinir sistemi yoluyla motor siniri uyararak kas dokusunun harekete geçirilmesi prensibine dayanan elektroterapi uygulaması aşağıdakilerden hangisidir?",
+      "a": "TENS",
+      "b": "Fonksiyonel Elektrik Stimülasyonu (FES)",
+      "c": "Nöromusküler Elektrik Stimülasyonu (NMES)",
+      "d": "Elektriksel Kas Stimülasyonu (EMS)",
+      "correctanswer": "Nöromusküler Elektrik Stimülasyonu (NMES)",
+      "category": "elektroikivize"
+    },
+    {
+      "id": 139,
+      "question": "Motor sinir eksitasyonu ile oluşan kas kontraksiyonunun yürüyüş, kavrama gibi anlamlı bir aktivite sırasında hedefe yönelik olarak kullanılmasına ne ad verilir?",
+      "a": "Fonksiyonel Elektrik Stimülasyonu (FES)",
+      "b": "İyontoforez",
+      "c": "Transkutanöz Elektriksel Sinir Stimülasyonu (TENS)",
+      "d": "Diadinamik Akım Uygulaması",
+      "correctanswer": "Fonksiyonel Elektrik Stimülasyonu (FES)",
+      "category": "elektroikivize"
+    },
+    {
+      "id": 140,
+      "question": "NMES fizyolojisine göre, kasın motor bir emir aldığında her zaman aynı şekilde kısalması ve ardından başlangıç uzunluğuna dönmesi ile oluşan mekanik cevaba ne ad verilir?",
+      "a": "Akomodasyon",
+      "b": "Twitch (Kas titreşimi)",
+      "c": "Spastisite",
+      "d": "Tetani",
+      "correctanswer": "Twitch (Kas titreşimi)",
+      "category": "elektroikivize"
+    },
+    {
+      "id": 141,
+      "question": "Aşağıdakilerden hangisi NMES (Nöromusküler Elektrik Stimülasyonu) tedavisinin kullanıldığı klinik durumlardan biri değildir?",
+      "a": "Kırık iyileşmesinin hızlandırılması ve kas gücünün korunması",
+      "b": "Hemiplejide omuz subluksasyonunun (yarı çıkık) tedavisi",
+      "c": "Skolyoz ve stres inkontinans tedavisi",
+      "d": "Periferik sinir kesisi olan denerve kasın doğrudan uyarılması",
+      "correctanswer": "Periferik sinir kesisi olan denerve kasın doğrudan uyarılması",
+      "category": "elektroikivize"
+    },
+    {
+      "id": 142,
+      "question": "Saniyede 1 milyon ya da daha fazla osilasyon (salınım) gösteren alternatif akımlara ne ad verilir?",
+      "a": "Alçak frekanslı akımlar",
+      "b": "Orta frekanslı akımlar",
+      "c": "Yüksek frekanslı akımlar",
+      "d": "Düz (Galvanik) akımlar",
+      "correctanswer": "Yüksek frekanslı akımlar",
+      "category": "elektroikivize"
+    },
+    {
+      "id": 143,
+      "question": "Yüksek frekanslı akımların (YFA) biyofiziksel özellikleri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "a": "Çok hızlı alternans (salınım) gösterirler.",
+      "b": "Duyu ve motor sinirleri güçlü bir şekilde stimüle ederler.",
+      "c": "Elektrokimyasal yanıklara sebep olmazlar.",
+      "d": "Geçiş yolu boyunca dokularda ısı enerjisi meydana getirirler.",
+      "correctanswer": "Duyu ve motor sinirleri güçlü bir şekilde stimüle ederler.",
+      "category": "elektroikivize"
+    },
+    {
+      "id": 144,
+      "question": "Yüksek frekanslı akımların tıbbi alanda kullanımında oluşan 'enterferans (radyo, tv vb. karışma)' problemini önlemek amacıyla tıbbi cihazlar için uluslararası ayrılmış frekans değeri nedir?",
+      "a": "2.500 Hz",
+      "b": "50 Hz",
+      "c": "27.12 MHz",
+      "d": "100.000 Hz",
+      "correctanswer": "27.12 MHz",
+      "category": "elektroikivize"
+    },
+    {
+      "id": 145,
+      "question": "Yüksek frekanslı akımların osilasyon (salınım) mekanizması fizikte hangi elektronik bileşenin şarj ve deşarj olma mantığına benzetilir?",
+      "a": "Diyot",
+      "b": "Kondansatör (Kapasitör)",
+      "c": "Transistör",
+      "d": "Röle",
+      "correctanswer": "Kondansatör (Kapasitör)",
+      "category": "elektroikivize"
+    },
+    {
+      "id": 146,
+      "question": "Kısa Dalga Diatermi (KDD) gibi yüksek frekanslı akım cihazları çalışırken etrafa yaydıkları elektromanyetik dalgalar nedeniyle aşağıdaki durumlardan hangisine yol açabilirler?",
+      "a": "Havadaki oksijeni tüketirler.",
+      "b": "Hastada kalıcı kas atrofisine neden olurlar.",
+      "c": "İşitme cihazı ve kalp pili (pacemaker) gibi elektronik aletlerin bozulmasına yol açabilirler.",
+      "d": "Odada bulunan diğer hastaların kaslarında şiddetli tetani başlatırlar.",
+      "correctanswer": "İşitme cihazı ve kalp pili (pacemaker) gibi elektronik aletlerin bozulmasına yol açabilirler.",
+      "category": "elektroikivize"
+    },
+    {
+      "id": 147,
+      "question": "HVPC ile kas güçlendirme ve rehabilitasyon hedeflendiğinde klinikte tercih edilmesi önerilen frekans ve polarite ayarı nedir?",
+      "a": "100 pps / Negatif (-)",
+      "b": "50 pps / Negatif (-)",
+      "c": "80 pps / Pozitif (+)",
+      "d": "1-10 pps / Pozitif (+)",
+      "correctanswer": "50 pps / Negatif (-)",
+      "category": "elektroikivize"
+    },
+    {
+      "id": 148,
+      "question": "TENS uygulamasında deri irritasyonu veya alerjik reaksiyon görülmesinin başlıca nedeni aşağıdakilerden hangisidir?",
+      "a": "Akımın çok düşük şiddette olması",
+      "b": "Tedavinin 5 dakika sürmesi",
+      "c": "Karbon lastik elektrot, jel veya kullanılan banta karşı gelişen temas reaksiyonu",
+      "d": "Akımın doğrudan kemik içine verilmesi",
+      "correctanswer": "Karbon lastik elektrot, jel veya kullanılan banta karşı gelişen temas reaksiyonu",
+      "category": "elektroikivize"
+    },
+    {
+      "id": 149,
+      "question": "NMES (Nöromusküler Elektrik Stimülasyonu) uygulaması yaparken aşağıdakilerden hangisine dikkat edilmesi gerekmez?",
+      "a": "Stimülasyon süresinin uzunluğuna",
+      "b": "Bir seansta alınan kontraksiyon sayısına",
+      "c": "İki kontraksiyon arası dinlenme (off) süresine",
+      "d": "Cihazın sadece gece uykusunda çalıştırılmasına",
+      "correctanswer": "Cihazın sadece gece uykusunda çalıştırılmasına",
+      "category": "elektroikivize"
+    },
+    {
+      "id": 150,
+      "question": "Vücudumuzda ağrı ve ısı duyusunu ileten, miyelinsiz olduğu için ileti hızı en düşük (0,5-2 m/sn) olan sinir lifi tipi hangisidir?",
+      "a": "A-beta lifleri",
+      "b": "A-delta lifleri",
+      "c": "A-alfa lifleri",
+      "d": "C lifleri",
+      "correctanswer": "C lifleri",
+      "category": "elektroikivize"
+    },
+    {
+      "id": 151,
+      "question": "Fizyoterapide kullanılan Mikrodalga Diatermi (MDD) cihazlarında sıklıkla tercih edilen dalga boyu ve frekans değerleri aşağıdakilerden hangisidir?",
+      "a": "1 cm dalga boyu / 300 MHz",
+      "b": "11 m dalga boyu / 27.12 MHz",
+      "c": "12.25 cm dalga boyu / 2450 MHz",
+      "d": "69 cm dalga boyu / 433 MHz",
+      "correctanswer": "12.25 cm dalga boyu / 2450 MHz",
+      "category": "elektroikifinal"
+    },
+    {
+      "id": 152,
+      "question": "Mikrodalga Diatermi uygulamasında, lokal bölgelerin (örneğin diz veya omuz eklemi) ısıtılması için kullanılan yuvarlak silindir şeklindeki elektrot tipi hangisidir?",
+      "a": "Longitudinal Elektrot",
+      "b": "Sirküler Elektrot",
+      "c": "Pyrodor Elektrot",
+      "d": "Kondansatör Elektrot",
+      "correctanswer": "Sirküler Elektrot",
+      "category": "elektroikifinal"
+    },
+    {
+      "id": 153,
+      "question": "Aşağıdakilerden hangisi Mikrodalga Diatermi (MDD) uygulamasının kesinlikle kontrendike (sakıncalı) olduğu durumlardan biri değildir?",
+      "a": "Büyüyen kemik epifizleri (Çocuklar)",
+      "b": "Göz ve çevresi (Katarakt riski)",
+      "c": "Vücut içi metal implantlar",
+      "d": "Kronik dejeneratif eklem hastalıkları (Osteoartrit)",
+      "correctanswer": "Kronik dejeneratif eklem hastalıkları (Osteoartrit)",
+      "category": "elektroikifinal"
+    },
+    {
+      "id": 154,
+      "question": "Vücut dokularının mikrodalga radyasyonunu emilimi (absorbsiyonu) düşünüldüğünde, ısınmanın en fazla olduğu doku tipi hangisidir?",
+      "a": "Su içeriği fakir olan yağ dokusu",
+      "b": "Su ve iyon yönünden zengin olan kas dokusu",
+      "c": "Kuru epidermis tabakası",
+      "d": "Tırnak ve saç dokusu",
+      "correctanswer": "Su ve iyon yönünden zengin olan kas dokusu",
+      "category": "elektroikifinal"
+    },
+    {
+      "id": 155,
+      "question": "Magnetoterapi (manyetik alan tedavisi) temel olarak hücresel düzeyde nasıl bir etki mekanizması oluşturur?",
+      "a": "Doku içindeki suyu buharlaştırarak kuruma sağlar.",
+      "b": "Hücre zarlarının geçirgenliğini artırarak iyon ve madde alışverişini düzenler.",
+      "c": "Hücre duvarını parçalayarak apoptozise (hücre ölümüne) neden olur.",
+      "d": "Deride kimyasal yanık oluşturarak ağrıyı maskeler.",
+      "correctanswer": "Hücre zarlarının geçirgenliğini artırarak iyon ve madde alışverişini düzenler.",
+      "category": "elektroikifinal"
+    },
+    {
+      "id": 156,
+      "question": "Magnetoterapi tedavisinin başlangıcında hastaların %15-20'sinde kısa süreli ağrı artışı şeklinde görülebilen duruma ne ad verilir?",
+      "a": "Elektriksel yanık",
+      "b": "Wallerian dejenerasyonu",
+      "c": "Kür (alışma) reaksiyonu",
+      "d": "Akomodasyon",
+      "correctanswer": "Kür (alışma) reaksiyonu",
+      "category": "elektroikifinal"
+    },
+    {
+      "id": 157,
+      "question": "Akut enflamasyon durumlarında magnetoterapi dozajı ayarlanırken genellikle hangi güç ve frekans aralığı tercih edilmelidir?",
+      "a": "Yüksek güç (100 G) / Yüksek frekans (100 Hz)",
+      "b": "Düşük güç (30 G) / Düşük frekans (6 Hz)",
+      "c": "Orta güç (60 G) / Orta frekans (50 Hz)",
+      "d": "Sürekli, kesintisiz yüksek akım",
+      "correctanswer": "Düşük güç (30 G) / Düşük frekans (6 Hz)",
+      "category": "elektroikifinal"
+    },
+    {
+      "id": 158,
+      "question": "Magnetoterapi seansına girmeden önce etkinliği artırmak ve yan etkileri (alışma reaksiyonunu) azaltmak için hastaya yapılması gereken en önemli tavsiye nedir?",
+      "a": "Tedaviden önce bol yağlı bir yemek yemesi",
+      "b": "Tedaviden önce en az 2 bardak su içmesi",
+      "c": "Bölgeye buz masajı yapması",
+      "d": "Bol miktarda kafein tüketmesi",
+      "correctanswer": "Tedaviden önce en az 2 bardak su içmesi",
+      "category": "elektroikifinal"
+    },
+    {
+      "id": 159,
+      "question": "Ultrason cihazlarındaki kristallerin (örn. kuartz veya PZT), kendilerine elektrik akımı verildiğinde genişleyip daralarak mekanik ses dalgası (vibrasyon) üretmesi prensibine ne ad verilir?",
+      "a": "Termoelektrik etki",
+      "b": "Ters (Zıt) Piezoelektrik etki",
+      "c": "Kavitasyon etkisi",
+      "d": "Girdap akımı etkisi",
+      "correctanswer": "Ters (Zıt) Piezoelektrik etki",
+      "category": "elektroikifinal"
+    },
+    {
+      "id": 160,
+      "question": "Ultrason tedavisinde doku derinliğine göre frekans seçimi yapılır. Buna göre yüzeysel dokular (1-2 cm) ve derin dokular (3-5 cm) için sırasıyla hangi frekanslar seçilmelidir?",
+      "a": "Yüzeysel için 1 MHz / Derin için 3 MHz",
+      "b": "Yüzeysel için 3 MHz / Derin için 1 MHz",
+      "c": "Yüzeysel için 5 MHz / Derin için 10 MHz",
+      "d": "Her iki derinlik için de 1 MHz standarttır.",
+      "correctanswer": "Yüzeysel için 3 MHz / Derin için 1 MHz",
+      "category": "elektroikifinal"
+    },
+    {
+      "id": 161,
+      "question": "Dinamik Ultrason uygulamasında başlığın tedavi süresince sürekli hareket ettirilmesinin temel nedeni aşağıdakilerden hangisidir?",
+      "a": "Kavitasyon ve duran dalgaların (standing waves) yol açacağı periostal ağrıyı önlemek",
+      "b": "Ultrason jelinin kurumasını hızlandırmak",
+      "c": "Sadece kas yüzeyine masaj etkisi yapmak",
+      "d": "Hastanın dikkatinin dağılmasını engellemek",
+      "correctanswer": "Kavitasyon ve duran dalgaların (standing waves) yol açacağı periostal ağrıyı önlemek",
+      "category": "elektroikifinal"
+    },
+    {
+      "id": 162,
+      "question": "Akut dönemdeki bir yumuşak doku yaralanmasında ısı artışı istenmediğinde, mikromasaj (mekanik) etkisinden faydalanmak için ultrason hangi modda uygulanmalıdır?",
+      "a": "Devamlı mod",
+      "b": "Yüksek doz sürekli mod",
+      "c": "Kesikli (Pulsatilli) mod",
+      "d": "Sürtünmesiz sabit mod",
+      "correctanswer": "Kesikli (Pulsatilli) mod",
+      "category": "elektroikifinal"
+    },
+    {
+      "id": 163,
+      "question": "Üst motor nöron lezyonlu hastalarda, paralize (felçli) kasların uyarılarak günlük yaşam aktivitelerinde (yürüme, kavrama gibi) işlevsel ve yararlı bir hareket açığa çıkarılmasını sağlayan yöntem hangisidir?",
+      "a": "Düz Galvanik Akım",
+      "b": "Fonksiyonel Elektrik Stimülasyonu (FES)",
+      "c": "TENS",
+      "d": "Diadinamik Akım",
+      "correctanswer": "Fonksiyonel Elektrik Stimülasyonu (FES)",
+      "category": "elektroikifinal"
+    },
+    {
+      "id": 164,
+      "question": "FES uygulamasında elektrotlar arası mesafe birbirine çok yakın tutulursa akımın dokudaki geçiş yolu nasıl etkilenir?",
+      "a": "Akım kasın en derinine inerek güçlü bir spazm yaratır.",
+      "b": "Akım sadece kemik dokudan geçer.",
+      "c": "Akım yüzeysel (deriden) geçer ve hedeflenen derinlikteki motor noktaya ulaşamaz.",
+      "d": "Akımın frekansı kendiliğinden iki katına çıkar.",
+      "correctanswer": "Akım yüzeysel (deriden) geçer ve hedeflenen derinlikteki motor noktaya ulaşamaz.",
+      "category": "elektroikifinal"
+    },
+    {
+      "id": 165,
+      "question": "Düşük ayak (drop foot) tedavisinde FES kullanılarak yürüyüş döngüsü (gait cycle) desteklenirken, ayak bileği dorsifleksörlerini uyarmak için akım yürümenin hangi fazında verilmelidir?",
+      "a": "Sadece çift destek fazında",
+      "b": "Basma (Stance) fazı boyunca",
+      "c": "Sallanma (Swing) fazı boyunca",
+      "d": "Hasta tamamen durduğunda",
+      "correctanswer": "Sallanma (Swing) fazı boyunca",
+      "category": "elektroikifinal"
+    },
+    {
+      "id": 166,
+      "question": "FES tedavisinde, üst motor nöron lezyonlu (spastik) bir hastada hareketin sarsıntılı ve ani olmasını önlemek, daha yumuşak ve doğal bir kasılma elde etmek için cihazın hangi parametresi uzun tutulmalıdır?",
+      "a": "Akım şiddeti (Amper)",
+      "b": "Frekans (Hertz)",
+      "c": "Ramp-up (Yükselme zamanı)",
+      "d": "Tedavi süresi",
+      "correctanswer": "Ramp-up (Yükselme zamanı)",
+      "category": "elektroikifinal"
+    },
+    {
+      "id": 167,
+      "question": "Hastanın biyolojik ve otonomik fonksiyonlarını (örn. kas gerginliği, deri ısısı) özel cihazlarla algılayıp hastanın anlayabileceği işitsel ve/veya görsel sinyallere dönüştürerek bilinçli kontrol kazanmasını sağlayan yöntem hangisidir?",
+      "a": "Biofeedback (Biyolojik Geri Bildirim)",
+      "b": "Enterferansiyel Terapi",
+      "c": "Kısa Dalga Diatermi",
+      "d": "Tıbbi Galvanizm",
+      "correctanswer": "Biofeedback (Biyolojik Geri Bildirim)",
+      "category": "elektroikifinal"
+    },
+    {
+      "id": 168,
+      "question": "Yüzeysel EMG-Biofeedback uygulamasında, aksiyon potansiyellerini tespit etmek amacıyla hedef kasa toplam kaç adet elektrot yerleştirilir?",
+      "a": "1 adet (Sadece aktif)",
+      "b": "2 adet (İkisi de referans)",
+      "c": "3 adet (2 aktif, 1 toprak/referans)",
+      "d": "4 adet (Quadripolar yerleşim)",
+      "correctanswer": "3 adet (2 aktif, 1 toprak/referans)",
+      "category": "elektroikifinal"
+    },
+    {
+      "id": 169,
+      "question": "EMG-Biofeedback uygulamasında aktif (kaydedici) elektrotların kas üzerindeki anatomik yerleşimi nasıl olmalıdır?",
+      "a": "Kas liflerine dik (transvers) olarak",
+      "b": "Kas liflerine paralel ve kasın karnı üzerine",
+      "c": "Sadece kemik çıkıntıların üzerine",
+      "d": "Tendondan başlayıp eklemi geçecek şekilde",
+      "correctanswer": "Kas liflerine paralel ve kasın karnı üzerine",
+      "category": "elektroikifinal"
+    },
+    {
+      "id": 170,
+      "question": "Spastisite tedavisinde spastik kasa EMG-Biofeedback uygulanırken fizyoterapistin ulaşmak istediği temel klinik hedef (feedback sinyali açısından) aşağıdakilerden hangisidir?",
+      "a": "Hasta kasıldıkça sinyalin artması ve alarm vermesi",
+      "b": "İstemli bir kasılma ile sinyalin ekranda maksimuma ulaşması",
+      "c": "Hastanın gevşemeyi öğrenerek cihazdan gelen sinyalleri (sesi veya ışığı) susturması/azaltması",
+      "d": "Her saniye eşit ve ritmik bir bip sesi duyulması",
+      "correctanswer": "Hastanın gevşemeyi öğrenerek cihazdan gelen sinyalleri (sesi veya ışığı) susturması/azaltması",
+      "category": "elektroikifinal"
+    }
+  ]
+}
