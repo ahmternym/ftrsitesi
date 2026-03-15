@@ -61,7 +61,6 @@ export default {
     }
   },
   mounted() {
-    
     fetch("https://69aeee46c8b37f499836fb56.mockapi.io/api/v1/data/1")
   .then(res => {
     if (!res.ok) {
@@ -76,7 +75,6 @@ export default {
     if (foundSick) {
       this.sick = foundSick;
     } else {
-      
       this.$router.push({ name: 'notfound' });
     }
   })
@@ -197,6 +195,24 @@ export default {
   border: 1px solid #e0f2fe;
 }
 
+.page-actions {
+  margin-top: 20px;
+}
+
+.btn-return {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+  color: #64748b;
+  font-weight: 600;
+  transition: color 0.2s;
+}
+
+.btn-return:hover {
+  color: #0ea5e9;
+}
+
 .loading-box { text-align: center; padding-top: 150px; width: 100%; }
 .spinner-medical {
   border: 4px solid #e2e8f0;
@@ -208,4 +224,58 @@ export default {
   margin: 0 auto 20px;
 }
 @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+
+/* --- MOBİL UYUM (RESPONSIVE) --- */
+@media (max-width: 768px) {
+  .page-wrapper {
+    padding: 20px 10px;
+  }
+  
+  .image-header-container {
+    height: 250px;
+  }
+  
+  .sick-illustration {
+    padding: 15px;
+  }
+
+  .target-badge {
+    top: 15px;
+    right: 15px;
+    font-size: 0.65rem;
+    padding: 6px 14px;
+  }
+
+  .card-body-content {
+    padding: 25px 20px;
+  }
+  
+  .disease-title {
+    font-size: 1.8rem;
+    line-height: 1.2;
+  }
+
+  .brand-line {
+    margin-bottom: 25px;
+  }
+  
+  .info-layout {
+    grid-template-columns: 1fr;
+    gap: 25px;
+    margin-bottom: 25px;
+  }
+  
+  .info-block p {
+    font-size: 0.95rem;
+  }
+
+  .symptom-card,
+  .treatment-highlight {
+    padding: 20px;
+  }
+
+  .loading-box {
+    padding-top: 100px;
+  }
+}
 </style>
